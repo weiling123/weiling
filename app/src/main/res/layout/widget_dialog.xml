@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/common_dialog_bg"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/relayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp" >
+
+            <TextView
+                android:id="@+id/dialog_msg"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="60dip"
+                android:gravity="center"
+                android:paddingTop="35dip"
+                android:text="您的版本过低\n是否更新到最新版本？"
+                android:textColor="@color/common_dark_black"
+                android:textSize="@dimen/tv_textsize18" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/relayout6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/btn_cancel"
+                style="@style/delete_disable_btn"
+                android:layout_width="100dp"
+                android:background="@drawable/cancel_dialog_bg"
+                android:textColor="@color/common_dark_red" >
+            </Button>
+
+            <View
+                android:id="@+id/view_match"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/btn_confirm"
+                style="@style/delete_disable_btn"
+                android:layout_width="100dp"
+                android:background="@drawable/sure_dialog_bg"
+                android:textColor="@color/common_dark_red" >
+            </Button>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/carton_dialog_bg"
+            android:gravity="center" >
+        </TextView>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1px"
+         android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/checkbox_item_check"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/checkbox_btn"
+            android:button="@null"
+            android:clickable="false"
+            android:focusable="false" />
+
+        <TextView
+            android:id="@+id/textview_pay_way"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:text="在线支付"
+            android:textColor="@color/common_tv_black"
+            android:textSize="@dimen/tv_textsize14" />
+    </LinearLayout>
+
+</LinearLayout>

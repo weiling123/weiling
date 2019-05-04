@@ -1,0 +1,882 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d9976b664b3e772f37cc31dfa3460ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5d4a972df0b909ea500ca6c46bf41c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c0d853ae73ea4de5b389e7f8a6d9a3db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\595dc89a52e2401106315eee4a5c19c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae5fb6705a93258b2aa49f7b215a26fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\088552238946883ef0c8b1eff7d734cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\43c5c65cfd7d2a925a7120eda37a6682\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475a91906400e0a8e31ceeb4529e182e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8eb11522eafd339d1adfbc94438d118\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b7c848b0f06b62da8ec5d9f5c6459b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a2acb6bc7b2316256db68eec1fc8d85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2069c20092c9950db578b099776af973\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0371fffe9ce4eef5057485ce21a55ff9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0a372acce42496ceb789f32a2c41455f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0d18623766efa16ee5f6d20c8705918f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a19ceffdf2823d1c9c1e441e9c41adcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11525d502c1414e0c930f820a5ccab6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1929ee37c64415659178275ce8f3ed3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\554998fe947b2bd7535f60536d4c3254\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6d46a2660a168e1d3bd31d9abeea0c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd986856007caf2ec1ec11007febdb7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb8710e0b08ebe2860f30cca9ffd8b7f\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:1-505:12
+	package
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:20:5-21:47
+	tools:ignore
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:23:5-24:47
+	tools:ignore
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:23:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:27:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.NFC
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:34:5-62
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:34:22-59
+uses-feature#android.hardware.nfc.hce
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:36:5-61
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:36:19-58
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:39:5-80
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:39:22-77
+uses-permission#org.simalliance.openmobileapi.SMARTCARD
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:47:5-65
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:47:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:50:5-69
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:50:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:53:5-72
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:53:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:54:5-73
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:54:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:56:5-69
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:56:22-66
+application
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:70:5-503:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2069c20092c9950db578b099776af973\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2069c20092c9950db578b099776af973\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:74:9-41
+	android:icon
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:73:9-45
+	android:allowBackup
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:72:9-35
+	android:theme
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:75:9-68
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:71:9-68
+activity#com.beijing.beixin.ui.StartActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:76:9-84:20
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:78:13-45
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:77:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:82:27-74
+activity#com.beijing.beixin.ui.homepage.GroupBuyActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:86:9-90:55
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:90:13-52
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:88:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:87:13-75
+activity#com.beijing.beixin.ui.homepage.GroupSoonActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:92:9-96:55
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:96:13-52
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:94:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:93:13-76
+activity#com.beijing.beixin.ui.MainActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:98:9-103:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:101:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:102:13-52
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:100:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:99:13-62
+activity#com.beijing.beixin.ui.myself.login.LoginActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:105:9-110:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:108:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:109:13-52
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:107:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:106:13-76
+activity#com.beijing.beixin.ui.myself.MyTicketActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:112:9-116:57
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:115:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:116:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:114:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:113:13-73
+activity#com.beijing.beixin.ui.myself.QrcodeTicketActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:118:9-122:57
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:121:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:122:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:120:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:119:13-77
+activity#com.beijing.beixin.ui.myself.login.RegisterActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:124:9-129:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:127:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:128:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:126:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:125:13-79
+activity#com.beijing.beixin.ui.myself.login.ResertPwdActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:131:9-136:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:135:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:133:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:132:13-80
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:138:9-144:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:142:13-47
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:143:13-67
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:141:13-37
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:140:13-74
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:139:13-60
+activity#com.beijing.beixin.wxapi.WXPayEntryActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:145:9-148:46
+	android:launchMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:148:13-43
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:147:13-36
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:146:13-71
+receiver#com.beijing.beixin.wxapi.AppRegister
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:150:9-154:20
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:150:19-70
+intent-filter#action:name:com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:151:13-153:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:152:17-100
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:152:25-97
+activity#com.beijing.beixin.utils.zxing.CaptureActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:156:9-161:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:159:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:160:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:158:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:157:13-74
+activity#com.beijing.beixin.utils.zxing.ResultActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:163:9-168:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:166:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:167:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:165:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:164:13-73
+activity#com.beijing.beixin.ui.classify.ClassifyProductActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:170:9-175:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:173:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:174:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:172:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:171:13-82
+activity#com.beijing.beixin.ui.shoppingcart.BookDetailActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:177:9-183:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:181:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:182:13-73
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:180:13-36
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:179:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:178:13-81
+activity#com.beijing.beixin.ui.shoppingcart.ShopcartActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:185:9-190:55
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:189:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:190:13-52
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:188:13-36
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:187:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:186:13-79
+activity#com.beijing.beixin.ui.shoppingcart.BookDetailMoreActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:193:9-198:57
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:197:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:198:13-54
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:196:13-36
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:195:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:194:13-85
+activity#com.beijing.beixin.ui.shoppingcart.GoodCommentsActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:201:9-206:57
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:205:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:206:13-54
+	android:exported
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:204:13-36
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:203:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:202:13-83
+activity#com.beijing.beixin.ui.shoppingcart.CouponActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:210:9-215:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:213:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:214:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:212:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:211:13-77
+activity#com.beijing.beixin.ui.classify.ClassifyMoreProductActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:217:9-222:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:220:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:221:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:219:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:218:13-86
+activity#com.beijing.beixin.ui.shoppingcart.SubmitOrderActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:224:9-229:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:227:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:228:13-52
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:226:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:225:13-82
+activity#com.beijing.beixin.ui.myself.order.OrderActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:231:9-236:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:234:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:235:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:233:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:232:13-76
+activity#com.beijing.beixin.ui.homepage.SearchActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:238:9-244:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:242:13-49
+	android:launchMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:241:13-44
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:243:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:240:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:239:13-73
+activity#com.beijing.beixin.ui.myself.order.OrderDetailActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:246:9-251:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:249:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:250:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:248:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:247:13-82
+activity#com.beijing.beixin.ui.myself.address.AddressActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:253:9-258:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:256:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:257:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:255:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:254:13-80
+activity#com.beijing.beixin.ui.myself.address.AddAddressActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:260:9-265:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:263:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:264:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:262:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:261:13-83
+activity#com.beijing.beixin.ui.myself.address.AreaActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:267:9-272:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:270:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:271:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:269:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:268:13-77
+activity#com.beijing.beixin.ui.pay.CheckstandActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:274:9-286:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:277:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:278:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:276:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:275:13-72
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:wxd2a403b6bee8850e
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:279:13-285:29
+action#android.intent.action.VIEW
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:280:17-69
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:280:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:282:17-76
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:282:27-73
+data
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:284:17-61
+	android:scheme
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:284:23-58
+activity#com.beijing.beixin.ui.pay.PayOrderSuccessActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:288:9-293:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:291:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:292:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:290:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:289:13-77
+activity#com.beijing.beixin.ui.myself.qrcode.QrcodeActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:295:9-300:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:298:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:299:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:297:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:296:13-78
+activity#com.beijing.beixin.ui.shoppingcart.ProductListShopActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:302:9-307:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:305:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:306:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:304:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:303:13-86
+activity#com.beijing.beixin.ui.myself.MyAccountActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:308:9-313:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:311:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:312:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:310:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:309:13-74
+activity#com.beijing.beixin.ui.myself.order.EvaluationSingleActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:315:9-320:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:318:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:319:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:317:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:316:13-87
+activity#com.beijing.beixin.ui.myself.BrowseTheFootprintActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:322:9-327:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:325:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:326:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:324:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:323:13-83
+activity#com.beijing.beixin.ui.myself.MyCollectionActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:329:9-334:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:332:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:333:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:331:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:330:13-77
+activity#com.beijing.beixin.ui.myself.order.GoPayOrderActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:336:9-341:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:339:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:340:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:338:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:337:13-81
+activity#com.beijing.beixin.ui.myself.address.SelectPeopleActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:343:9-348:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:346:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:347:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:345:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:344:13-85
+activity#com.beijing.beixin.utils.takeRoundPhotoSDK.view.ClipActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:349:9-354:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:352:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:353:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:351:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:350:13-88
+activity#com.beijing.beixin.ui.myself.AccountSecurityActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:355:9-360:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:358:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:359:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:357:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:356:13-80
+activity#com.beijing.beixin.ui.myself.UpdateSexActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:362:9-367:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:365:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:366:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:364:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:363:13-74
+activity#com.beijing.beixin.ui.myself.AssetCenterActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:369:9-374:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:372:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:373:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:371:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:370:13-76
+activity#com.beijing.beixin.ui.myself.AccountMoneyActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:376:9-381:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:379:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:380:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:378:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:377:13-77
+activity#com.beijing.beixin.ui.myself.login.ForgetPwdActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:382:9-387:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:385:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:386:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:384:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:383:13-80
+activity#com.beijing.beixin.ui.shoppingcart.ShopActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:389:9-394:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:392:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:393:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:391:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:390:13-75
+activity#com.beijing.beixin.ui.shoppingcart.PayOrSendWayActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:396:9-401:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:399:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:400:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:398:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:397:13-83
+activity#com.beijing.beixin.ui.homepage.AdvActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:403:9-408:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:406:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:407:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:405:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:404:13-70
+activity#com.beijing.beixin.ui.shoppingcart.InvoiceActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:409:9-414:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:412:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:413:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:411:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:410:13-78
+activity#com.beijing.beixin.ui.shoppingcart.SubmitOrderAddressActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:415:9-420:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:418:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:419:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:417:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:416:13-89
+activity#com.beijing.beixin.ui.homepage.WebViewActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:421:9-426:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:424:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:425:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:423:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:422:13-74
+activity#com.beijing.beixin.ui.myself.MyCouponActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:427:9-432:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:430:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:431:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:429:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:428:13-73
+activity#com.beijing.beixin.ui.myself.address.UpdateAddressActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:433:9-438:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:436:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:437:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:435:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:434:13-86
+activity#com.beijing.beixin.ui.pay.BalancePayActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:439:9-444:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:442:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:443:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:441:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:440:13-72
+activity#com.beijing.beixin.ui.pay.PayPwdActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:445:9-450:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:448:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:449:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:447:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:446:13-68
+activity#com.beijing.beixin.ui.classify.NewProductActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:451:9-456:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:454:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:455:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:453:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:452:13-77
+activity#com.beijing.beixin.ui.classify.HotProductActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:457:9-462:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:460:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:461:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:459:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:458:13-77
+activity#com.beijing.beixin.ui.classify.ProductListActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:463:9-468:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:466:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:467:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:465:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:464:13-78
+activity#com.beijing.beixin.ui.classify.EightAreasActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:469:9-474:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:472:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:473:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:471:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:470:13-77
+activity#com.beijing.beixin.ui.pay.PayOrderFailureActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:475:9-480:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:478:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:479:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:477:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:476:13-77
+activity#com.beijing.beixin.ui.myself.SettingActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:481:9-486:20
+	android:screenOrientation
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:484:13-49
+	android:windowSoftInputMode
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:485:13-54
+	android:configChanges
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:483:13-59
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:482:13-72
+activity#com.beijing.beixin.ui.myself.login.TermsActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:487:9-490:20
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:489:13-57
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:488:13-76
+activity#com.beijing.beixin.ui.myself.UpdateNameActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:491:9-494:20
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:493:13-63
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:492:13-75
+activity#com.beijing.beixin.ui.myself.UpdateMobileActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:495:9-498:20
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:497:13-65
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:496:13-77
+activity#com.beijing.beixin.ui.myself.UpdateEmailActivity
+ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:499:9-502:20
+	android:label
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:501:13-64
+	android:name
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml:500:13-76
+uses-sdk
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d9976b664b3e772f37cc31dfa3460ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d9976b664b3e772f37cc31dfa3460ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5d4a972df0b909ea500ca6c46bf41c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5d4a972df0b909ea500ca6c46bf41c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c0d853ae73ea4de5b389e7f8a6d9a3db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c0d853ae73ea4de5b389e7f8a6d9a3db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\595dc89a52e2401106315eee4a5c19c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\595dc89a52e2401106315eee4a5c19c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae5fb6705a93258b2aa49f7b215a26fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae5fb6705a93258b2aa49f7b215a26fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\088552238946883ef0c8b1eff7d734cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\088552238946883ef0c8b1eff7d734cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\43c5c65cfd7d2a925a7120eda37a6682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\43c5c65cfd7d2a925a7120eda37a6682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475a91906400e0a8e31ceeb4529e182e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475a91906400e0a8e31ceeb4529e182e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8eb11522eafd339d1adfbc94438d118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8eb11522eafd339d1adfbc94438d118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b7c848b0f06b62da8ec5d9f5c6459b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b7c848b0f06b62da8ec5d9f5c6459b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a2acb6bc7b2316256db68eec1fc8d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a2acb6bc7b2316256db68eec1fc8d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2069c20092c9950db578b099776af973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2069c20092c9950db578b099776af973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0371fffe9ce4eef5057485ce21a55ff9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0371fffe9ce4eef5057485ce21a55ff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0a372acce42496ceb789f32a2c41455f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0a372acce42496ceb789f32a2c41455f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0d18623766efa16ee5f6d20c8705918f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0d18623766efa16ee5f6d20c8705918f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a19ceffdf2823d1c9c1e441e9c41adcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a19ceffdf2823d1c9c1e441e9c41adcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11525d502c1414e0c930f820a5ccab6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11525d502c1414e0c930f820a5ccab6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1929ee37c64415659178275ce8f3ed3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1929ee37c64415659178275ce8f3ed3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\554998fe947b2bd7535f60536d4c3254\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\554998fe947b2bd7535f60536d4c3254\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6d46a2660a168e1d3bd31d9abeea0c1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6d46a2660a168e1d3bd31d9abeea0c1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd986856007caf2ec1ec11007febdb7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd986856007caf2ec1ec11007febdb7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb8710e0b08ebe2860f30cca9ffd8b7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb8710e0b08ebe2860f30cca9ffd8b7f\AndroidManifest.xml:20:5-44
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		ADDED from E:\BeiXin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BeiXin\app\src\main\AndroidManifest.xml

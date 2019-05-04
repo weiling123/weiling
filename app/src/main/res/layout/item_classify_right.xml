@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textview_classify_listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:text="文学" />
+
+    <com.beijing.beixin.utils.MyGridView
+        android:id="@+id/gridview_classify_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="19dp"
+        android:background="@drawable/classify_rounded_shape"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3" />
+
+</LinearLayout>

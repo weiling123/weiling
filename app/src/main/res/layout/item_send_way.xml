@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textview_shop_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="配送方式"
+         android:layout_marginTop="10dp"
+        android:textColor="@color/common_tv_black"
+        android:textSize="@dimen/tv_textsize16" />
+
+    <com.beijing.beixin.utils.HorizontalListView
+        android:id="@+id/layout_send_way"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+    </com.beijing.beixin.utils.HorizontalListView>
+
+    <GridView
+        android:id="@+id/gridView_send_way"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/white"
+        android:listSelector="@color/transparent"
+        android:numColumns="3" >
+    </GridView>
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dl_foot_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_gray_bg"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/common_header" />
+
+    
+  <LinearLayout
+        android:background="#FFF"
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dip" >
+
+        <TextView
+            android:id="@+id/tv_tab_0"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="团购分类"
+            android:textColor="@color/tv_tips_prodetail"
+            android:textSize="@dimen/tv_textsize14" />
+
+        <TextView
+            android:id="@+id/tv_tab_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+           android:text="团购分类"
+            android:textColor="@color/tv_tips_gray"
+            android:textSize="@dimen/tv_textsize14" />
+
+        <TextView
+            android:id="@+id/tv_tab_2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+             android:text="团购分类"
+            android:textColor="@color/tv_tips_gray"
+            android:textSize="@dimen/tv_textsize14" />
+        
+         <TextView
+            android:id="@+id/tv_tab_3"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+             android:text="团购分类"
+            android:textColor="@color/tv_tips_gray"
+            android:textSize="@dimen/tv_textsize14" />
+
+    </LinearLayout>
+    
+     <android.support.v4.view.ViewPager
+         android:layout_marginTop="10dp"
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    
+</LinearLayout>

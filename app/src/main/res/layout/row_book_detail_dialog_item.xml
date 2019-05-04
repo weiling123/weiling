@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:paddingTop="10dp"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_marginBottom="5dp"
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="颜色"
+        android:textColor="#999999"
+        android:textSize="14sp" />
+    
+   <com.beijing.beixin.utils.MyGridView
+       android:background="#FFF"
+       android:horizontalSpacing="10dp"
+       android:verticalSpacing="10dp"
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="left|top"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="4" />
+
+</LinearLayout>

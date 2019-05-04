@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".PayOrderSuccessActivity" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/common_header" />
+
+    <ImageView
+        android:id="@+id/imageview_order"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/failure" />
+
+    <TextView
+        android:id="@+id/textview_pay_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="订单支付成功"
+        android:textColor="#303030"
+        android:textSize="@dimen/tv_textsize17" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textview_price_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="订单金额："
+            android:textColor="#303030"
+            android:textSize="@dimen/tv_textsize14" />
+
+        <TextView
+            android:id="@+id/tv_ordermomey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="¥46.00"
+            android:textColor="@color/red"
+            android:textSize="@dimen/tv_textsize14" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_seeorder"
+            android:layout_width="120dp"
+            android:layout_height="34dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/image_rounde_red"
+            android:gravity="center"
+            android:text="查看订单"
+            android:textColor="@color/red"
+            android:textSize="@dimen/tv_textsize14" />
+
+        <TextView
+            android:id="@+id/tv_backhome"
+            android:layout_width="120dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/image_rounde_red"
+            android:gravity="center"
+            android:text="回首页"
+            android:textColor="@color/red"
+            android:textSize="@dimen/tv_textsize14" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left|bottom"
+            android:layout_marginBottom="40dp"
+            android:layout_weight="1"
+            android:gravity="center|left|bottom"
+            android:text="注意：北新网不会以订单异常、系统升级为由、要求您点击任何链接进行退款操作。"
+            android:textColor="#A0A0A0"
+            android:textSize="@dimen/tv_textsize11" />
+    </LinearLayout>
+
+</LinearLayout>

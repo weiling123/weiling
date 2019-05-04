@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_shop"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <FrameLayout
+            android:id="@+id/checkbox_item_check_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <CheckBox
+                android:id="@+id/checkbox_item_check"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/checkbox_btn"
+                android:button="@null"
+                android:focusable="false"
+                android:clickable="false"
+                android:padding="5dp" />
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/imageview_shop_icon"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/checkbox_item_check_layout"
+            android:src="@drawable/common_shop_icon" />
+
+        <TextView
+            android:id="@+id/textview_shop_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/imageview_shop_icon"
+            android:text="北新网旗舰店"
+            android:textColor="@color/common_tv_black"
+            android:textSize="@dimen/tv_textsize16" />
+
+        <ImageView
+            android:id="@+id/imageview_right_arrow"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/common_right_arrow_selector" />
+
+        <TextView
+            android:id="@+id/textview_vocher_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@id/imageview_right_arrow"
+            android:background="@drawable/red_rounded_shape"
+            android:paddingBottom="2dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="2dp"
+            android:text="优惠券"
+            android:textColor="@color/white"
+            android:textSize="@dimen/tv_textsize14"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#edededed" />
+
+    <com.beijing.beixin.utils.ExpandListView
+        android:id="@+id/listview_shoppingcart_commodity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:listSelector="@android:color/transparent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+</LinearLayout>

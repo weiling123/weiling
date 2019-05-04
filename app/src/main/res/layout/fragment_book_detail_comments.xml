@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dip" >
+
+        <LinearLayout
+            android:id="@+id/tv_tab_0"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_name0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="全部"
+                android:textColor="@color/tv_tips_prodetail_top"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_tab_num0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="0"
+                android:textColor="@color/tv_tips_prodetail_top"
+                android:textSize="@dimen/tv_textsize12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tv_tab_1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_name1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="好评"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_tab_num1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="0"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="@dimen/tv_textsize12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tv_tab_2"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_name2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="中评"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_tab_num2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="0"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="@dimen/tv_textsize12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tv_tab_3"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_name3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="差评"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_tab_num3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="0"
+                android:textColor="@color/tv_gray_prodetail_top_comment"
+                android:textSize="@dimen/tv_textsize12" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.beijing.beixin.ui.activity.yindaoye.MyViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

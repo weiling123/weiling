@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <CheckBox
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_rect_shape_detail"
+        android:button="@null"
+        android:singleLine="true"
+        android:clickable="false"
+        android:focusable="false"
+        android:gravity="center"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp"
+        android:text="浅灰森蓝回复回复"
+        android:textColor="@color/color_font_detail"
+        android:textSize="12sp" />
+
+</FrameLayout>

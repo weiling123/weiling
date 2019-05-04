@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">北新网</string>
+
+    <string name="yes">确定</string>
+    <!-- 个人中心 -->
+    <string name="above_app">关于APP</string>
+
+    <!-- 登录 -->
+    <string name="username_or_phone">请输入手机号码</string>
+    <string name="pwd">请输入密码</string>
+    <string name="pwd2">请确认密码</string>
+    <string name="forget_pwd_yes">自动登录</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="sub_cancel_title">提示</string>
+    <string name="text_pwd">密码须包含大写、小写字母、数字,长度为6到16位请重新输入</string>
+    <string name="text_username">用户名须为6到16位有效数字和字母，请重新输入</string>
+    <string name="text_phone">手机号输入不正确</string>
+    <string name="loginmessage">若该手机号无法接受验证短信，请拨打客户电话400-400-4400申诉更改验证手机</string>
+    <!-- 检查更新 -->
+    <string name="offline_map_size">%sMB</string>
+
+    <!-- 首页 -->
+    <string name="homepage_time_buy">团购</string>
+    <string name="homepage_time_buy_detail">名社联展 经管好书</string>
+    <string name="homepage_best_buy_detail">小编倾情推荐 精品好书</string>
+    <string name="new_book_to_buy">新品上架</string>
+    <string name="hot_book_to_buy">精品热销</string>
+    <string name="editor_circle">主编圈子</string>
+    <!-- 二维码 -->
+    <string name="scan_qrcode">将二维码放入框内，即可自动扫描</string>
+    <string name="scan_onecode">将条形码放入框内，即可自动扫描</string>
+    <string name="scan_qr">二维码</string>
+    <string name="scan_one">条形码</string>
+    <string name="scan_help">帮助</string>
+    <string name="scan_scan">扫一扫</string>
+    <string name="scan_result">扫描结果</string>
+    <string name="scan_content">扫描内容</string>
+    <string name="scan_back">返回</string>
+    <string name="button_ok">确定</string>
+    <string name="msg_camera_framework_bug">抱歉，Android相机可能被占用，您可能需要重启设备。</string>
+    <string name="msg_default_format">格式</string>
+    <string name="msg_default_meta">元数据</string>
+    <string name="msg_default_time">时间</string>
+    <string name="msg_default_type">类型</string>
+
+    <!-- 上拉刷新，下拉加载使用 -->
+
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_release_label">放开以刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入…</string>
+    <!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <!-- 拍照圆形裁剪 -->
+    <string name="take_round_photo_loading">正在保存</string>
+    <string name="take_round_photo_true">确定</string>
+    <string name="take_round_photo_back">返回</string>
+    <string name="take_round_photo_clip">移动和缩放</string>
+
+    <!-- 产品详情中的tab -->
+    <string name="book_detail_tab0">商品详情</string>
+    <string name="book_detail_tab1">包装清单</string>
+    <string name="book_detail_notab1">出版信息</string>
+    <string name="book_detail_tab2">售后服务</string>
+    <string name="title_activity_terms">TermsActivity</string>
+    <string name="title_activity_update_name">UpdateNameActivity</string>
+    <string name="title_activity_update_mobile">UpdateMobileActivity</string>
+    <string name="title_activity_update_email">UpdateEmailActivity</string>
+
+</resources>

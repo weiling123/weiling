@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="title_bar_color">#ff232326</color>
+    <color name="common_header_bg">#ffffff</color>
+    <!-- 主题红色 -->
+    <color name="common_red_bg">#f05253</color>
+    <!-- 深黑色 -->
+    <color name="common_dark_black">#333333</color>
+    <!-- 浅灰色 -->
+    <color name="common_light_gray">#A0A0A0</color>
+    <color name="tv_tips_prodetail_top">#F23030</color>
+    <color name="tv_gray_prodetail_top">#8C8C8C</color>
+    <color name="tv_gray_prodetail_top_comment">#59595C</color>
+    <!-- 黑色字体 -->
+    <color name="common_tv_black">#303030</color>
+    <!-- 灰色边框 -->
+    <color name="common_gray_border">#d8d8d8</color>
+    <!-- 深红色字体 -->
+    <color name="tv_dark_red">#c70000</color>
+    <!-- 灰色分割线 -->
+    <color name="gray_line">#BEBEBE</color>
+    <!-- 标题白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 标题大红色 -->
+    <color name="common_dark_red">#E5350D</color>
+    <!-- 灰色背景 -->
+    <color name="common_gray_bg">#f3f4f6</color>
+    <!-- 首页红色字体 -->
+    <color name="tv_red_home">#E8360F</color>
+    <!-- 首页红色字体 -->
+    <color name="tv_blue_home">#15AFD6</color>
+    <!-- 首页虚灰色字体 -->
+    <color name="tv_gray_home">#676767</color>
+    <!-- 首页深黄色色字体 -->
+    <color name="tv_darkorange_home">#645000</color>
+    <!-- 首页店铺推荐虚灰色字体 -->
+    <color name="tv_grayshop_home">#CAC3B2</color>
+    <!-- 首页为tab字体颜色的滑块 -->
+    <color name="tv_tab_home">#5B5B5B</color>
+    <!-- 商品详情页面红色价格字体 -->
+    <color name="tv_red_prodetail">#D12013</color>
+    <!-- 商品详情页面灰色字体 -->
+    <color name="tv_gray_prodetail">#A0A0A0</color>
+    <!-- 商品详情页面提示的红色字体 -->
+    <color name="tv_tips_prodetail">#CB3030</color>
+    <!-- 商品详情页面店铺商品字体 -->
+    <color name="tv_shoppro_prodetail">#757575</color>
+    <!-- 收藏页面点击字体 -->
+    <color name="tv_account_gray">#AFAFAF</color>
+    <!-- 验证码的背景框 -->
+    <color name="bg_message_code">#CECECE</color>
+    <!-- 验证码的背景框 -->
+    <color name="bg_prodetail">#F5F5F5</color>
+    <color name="common_home_tv">#262626</color>
+    <color name="button_edge">#969696</color>
+
+    <color name="black">#292929</color>
+    <color name="red">#ff3600</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <color name="result_view">#b0000000</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- 设备选择模块 -->
+    <color name="bg">#F4F4F4</color>
+    <!-- 标题背景颜色 -->
+    <color name="title_bg_black">#333333</color>
+    <!-- 深灰色颜色 -->
+    <color name="dark_gray">#b3b3b3</color>
+    <!-- 拍照圆形裁剪界面标题背景颜色 -->
+    <color name="take_round_photo_clip_bg">#FFC415</color>
+    <!-- 登录/注册/忘记密码/修改密码a -->
+    <color name="background_color">#f2f2f2</color>
+    <color name="text_hint">#666666</color>
+    <color name="pwd_text_hint">#333333</color>
+    <color name="line">#d2d2d2</color>
+    <color name="text_color_light">#333333</color>
+    <color name="btn_color_light">#20c0da</color>
+    <color name="bark_gray">#BEBEBE</color>
+    <!-- 个人资料个人中心 -->
+ <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+ <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+ <!-- Android standard ICS color -->
+    <color name="group_buy_item_time_bg">#E9360D</color>
+    <color name="group_tab_select">#FDFA00</color>
+    <color name="tv_tips_gray">#646464</color>
+ 
+</resources>

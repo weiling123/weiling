@@ -1,0 +1,1638 @@
+[
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\title_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avb.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avb.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_ticket.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_my_ticket.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_frag_comment_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_frag_comment_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_ratingbar_progress.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\custom_ratingbar_progress.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tel_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\tel_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_rounde_red.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\image_rounde_red.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_judge.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\judge.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_take_round_photo_clipactivity_loading.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\take_round_photo_clipactivity_loading.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_editaddress_selector_sm.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_editaddress_selector_sm.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_cart_selector.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_cart_selector.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_exit_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_exit_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_cart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\red_cart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_submit_order_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_submit_order_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_shape_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_shape_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_fragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_pressed.9.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_browse_the_footprint.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_browse_the_footprint.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_wallet.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\red_wallet.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_take_round_photo_pop_window_textviewbg.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\take_round_photo_pop_window_textviewbg.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_temp_icon_4.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\temp_icon_4.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_detail_more.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_book_detail_more.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mmtitle_bg_alpha.9.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_modify.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\modify.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tem_icon_1.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\tem_icon_1.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_mode_qr.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\scan_mode_qr.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_load_faile.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xhdpi\\icon_load_faile.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_take_round_photo_pop_window.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\take_round_photo_pop_window.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_product_custom.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\tab_product_custom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_shape_detail_image.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_shape_detail_image.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\gray_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallet_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_browse_the_footprint.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_browse_the_footprint.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_btn.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\checkbox_btn.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_press.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\star_press.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_search_box.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\shape_search_box.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_tab_select.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_tab_select.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_arrow_down.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\red_arrow_down.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_connect_product_item.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\connect_product_item.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mine_tuijian.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mine_tuijian.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_normal.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\star_normal.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_soon.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_group_soon.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_delete.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_comment_list_item.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_comment_list_item.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coupon_selected.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\coupon_selected.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_order.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\order.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\qr.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_more_product.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_more_product.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_classify_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\classify_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_common_textview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_common_textview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_exit.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_address.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_common_header.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_ratingbar_progress_big.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\custom_ratingbar_progress_big.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_pass.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\start_pass.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hot_product_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_hot_product_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a4i.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\a4i.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_myself_login.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\myself_login.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editbutton_touchdown.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\editbutton_touchdown.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppingcart_fragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\shoppingcart_fragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pay_pwd.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_pay_pwd.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coupon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\coupon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sure_dialog_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\sure_dialog_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_ves.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\set_ves.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sousuo.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\sousuo.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_orders.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_orders.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_base_load_dialog.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\base_load_dialog.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_right_arrow_selector.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_right_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bao.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\bao.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_focused.9.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aboutbeixinwang.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\aboutbeixinwang.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_show.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\logo_show.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_account.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_my_account.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_more.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pop_more.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_member_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\member_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_dialog.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_store_hl.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_store_hl.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avi.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avi.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_detail_dialog_grid.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\row_book_detail_dialog_grid.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_promotion.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_promotion.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_book_hl.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_book_hl.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\exit_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_detail_comments.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_book_detail_comments.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avh.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avh.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_group_buy_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_group_buy_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_gridview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_home_gridview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\popupwindow_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_security.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_account_security.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_hotseach.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_hotseach.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_find_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\find_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_take_round_photo_loading.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\take_round_photo_loading.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_detail_title.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_book_detail_title.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_min_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\gray_min_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_cartshop_edit.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_cartshop_edit.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_area.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_area.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adv.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_adv.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_goods.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\goods.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_find_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\find_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linshi_cart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\linshi_cart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_book_detail_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_book_detail_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_commom_price_group.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\commom_price_group.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_button.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\share_button.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_white_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\gray_white_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouchang.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\shouchang.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_dialog_in_anim.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\photo_dialog_in_anim.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_toggle_selector.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_toggle_selector.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_page_refresh.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\page_refresh.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_group_soon_book.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_group_soon_book.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ticket.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_ticket.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bar_back_true.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\title_bar_back_true.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gray_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_gray_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_shop_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\common_shop_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_package_list_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\package_list_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_follow.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\follow.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a4h.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\a4h.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_collection.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_product_collection.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_popupwindow.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_popupwindow.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_order_up_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\list_order_up_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circular_th_red.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_circular_th_red.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_order_down_gray.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\list_order_down_gray.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_exit_black.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_exit_black.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_arrow.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_product_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_evaluation_single.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_evaluation_single.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pulltorefresh_xlistview_footer.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pulltorefresh_xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\white_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_failure.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\failure.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_cart_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\main_cart_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_qr.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_qr.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_followr.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\followr.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_list_shoppingcart.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_product_list_shoppingcart.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_sex.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_update_sex.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_request_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\request_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_foot.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\foot.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mine_defaulticon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mine_defaulticon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_guidefragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\guidefragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_classify_fragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\classify_fragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_address.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_update_address.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_shape_detail_press.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_shape_detail_press.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toggle_btn_unchecked.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\toggle_btn_unchecked.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pulltorefresh_icon_loading.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\pulltorefresh_icon_loading.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_deladdress_selector_sm.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_deladdress_selector_sm.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grey_heart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\grey_heart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_select_people.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_select_people.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_submit_address.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_submit_address.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_success.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_dialog_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\cancel_dialog_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_account.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\set_account.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eight_area.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_eight_area.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_start.jpg.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xxhdpi\\start.jpg"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_asset_center.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_asset_center.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_index_01.jpg.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xxhdpi\\index_01.jpg"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_group_custom.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\tab_group_custom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shop.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_dialog_out_anim.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\photo_dialog_out_anim.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entershop.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\entershop.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_favoritebutton_unselected.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\favoritebutton_unselected.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallet.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_dialog_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\common_dialog_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shop_collection.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_shop_collection.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_book_package_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_book_package_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_detail_goods.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_book_detail_goods.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_invoice.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_scan_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_scan_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_ptr_rotate.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_horizontallistview_item.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\horizontallistview_item.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_enter.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_glyph.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\header_glyph.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_view_push_up_out.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\view_push_up_out.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_counpon.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_counpon.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_view_push_up_in.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\view_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_collection.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_my_collection.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recommend_gridview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_recommend_gridview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mine_bitmap.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mine_bitmap.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_radius.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grey_cart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\grey_cart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\icon_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_take_round_photo_load_animation.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\take_round_photo_load_animation.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_bar_back.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\title_bar_back.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_cover.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\gray_cover.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_cri_pageindex.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_cri_pageindex.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_car_detail_imageview_redpoint.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\car_detail_imageview_redpoint.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_balance_pay.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_balance_pay.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_index_02.jpg.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xxhdpi\\index_02.jpg"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orderdetails_loction.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\orderdetails_loction.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_take_round_photo_arrow_left.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\take_round_photo_arrow_left.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_store.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\store.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode_ticket.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_qrcode_ticket.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_mode_book.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\scan_mode_book.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_bar_bg.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\title_bar_bg.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ticket_used.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\ticket_used.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deletebutton_touchdown.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\deletebutton_touchdown.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\color_color_font_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\color\\color_font_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_qr_hl.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_qr_hl.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_index_00.jpg.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xxhdpi\\index_00.jpg"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weixin.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mineballatin.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mineballatin.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avc.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avc.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_load_faile.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\include_load_faile.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editbutton_default.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\editbutton_default.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\product_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_address.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_submit_order_product.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_submit_order_product.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pulllist_fragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pulllist_fragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_order_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_order_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pro_detail_cart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\pro_detail_cart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit_order.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_submit_order.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qrcode_scan_line.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_address.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_white_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_white_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shopcart.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_shopcart.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_shape_detail_normal.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_shape_detail_normal.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_classify_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\classify_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_book_detail_dialog_item.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\row_book_detail_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pulltorefresh_icon_update.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\pulltorefresh_icon_update.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_login_black.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_login_black.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_customerservice_default.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\customerservice_default.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_mobile.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_update_mobile.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_address_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\address_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_takeroundphoto_clipimage.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_takeroundphoto_clipimage.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rect_red_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_rect_red_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_scan_black.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_scan_black.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ticket_timeout.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\ticket_timeout.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pulltorefresh_xlistview_header.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\pulltorefresh_xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circular_red.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_circular_red.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_product.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_new_product.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_select_g.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\select_g.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_go_pay_order.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_go_pay_order.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_address.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\set_address.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usericon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\usericon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_group_buy_book.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_group_buy_book.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_buy.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_group_buy.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouye.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\shouye.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bx_news.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\bx_news.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_bank_layout.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\view_bank_layout.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookdetail_shop_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\bookdetail_shop_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_group_select.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\bg_group_select.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tem_icon_2.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\tem_icon_2.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unionpay.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\unionpay.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_order_up_gray.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\list_order_up_gray.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_terms.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_myself_member_fragment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\myself_member_fragment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payorsend.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_payorsend.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_name.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_update_name.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate_loading_360.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\rotate_loading_360.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_select_r.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\select_r.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_cart_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\main_cart_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classify_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\classify_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_buy.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_group_buy.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_order_down_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\list_order_down_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_wait.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\icon_wait.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toggle_btn_checked.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\toggle_btn_checked.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_login_white.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\home_login_white.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_yinsi.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\set_yinsi.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_webview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_coupon.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_coupon.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a4j.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\a4j.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_rect_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\gray_rect_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_classify_right_textview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_classify_right_textview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_foot_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_foot_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_classify_left.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_classify_left.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pay.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_comment_order.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_comment_order.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_bar_back_true.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xhdpi\\title_bar_back_true.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_right_arrow_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\common_right_arrow_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_soon.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_group_soon.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_classify_more_product.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_classify_more_product.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_follow_selector.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\common_follow_selector.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comdemore.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\comdemore.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unpay.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\unpay.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_detail_more_info.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_book_detail_more_info.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bar_back_false.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\title_bar_back_false.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shoppingcart_second_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_shoppingcart_second_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkstand.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_checkstand.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cpay.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\cpay.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shop.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_shop.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_bank_header.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\view_bank_header.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_email.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_update_email.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shoppingcart_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_shoppingcart_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_good_comment.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_good_comment.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_please_in_userinfo_tishi.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\please_in_userinfo_tishi.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_car_detail_star_empty.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\car_detail_star_empty.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avf.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avf.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_favoritebutton_selected.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\favoritebutton_selected.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\8bd3b6338fabf4e9fd5dd5579b4c95af\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_bar_back_false.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-xhdpi\\title_bar_back_false.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_classify_right.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_classify_right.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_guanyu.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\set_guanyu.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_money.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\money.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orderdetails_c.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\orderdetails_c.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_tips_unselect_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\common_tips_unselect_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_tips_selected_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\common_tips_selected_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_arrow_up.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\red_arrow_up.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ticket_get.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\ticket_get.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_myself_register.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\myself_register.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ave.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\ave.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_dialog.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\widget_dialog.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_shoppingcart_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_product_shoppingcart_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setup.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\setup.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_send_way.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_send_way.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red_heart.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\red_heart.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_commom_tag_group.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\commom_tag_group.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_new_book.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_group_new_book.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_area.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pay_order_success.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_pay_order_success.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_book.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_book.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_ptr_flip.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_post_select.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\dialog_post_select.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_orderdetail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_orderdetail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zuji.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\zuji.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deletebutton_default.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\deletebutton_default.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_logo.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_mode_store.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\scan_mode_store.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avd.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\avd.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_member_red.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\member_red.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_send_way_gridview.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_send_way_gridview.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tankuang.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\tankuang.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mm_title_back_btn.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_new_book_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_new_book_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_car_detail_star.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\car_detail_star.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_silver_medal.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\silver_medal.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_special_list.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\item_home_special_list.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_own.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\own.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_coupon.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_my_coupon.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_people.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_select_people.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_types.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\types.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_book_detail.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\fragment_book_detail.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coupon_icon.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\coupon_icon.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\red_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_rounded_shape.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\image_rounded_shape.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_store.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\scan_store.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b46c168b5af78ee1d89bf2973d0840b7\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_myself_register2.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\myself_register2.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_header_selector.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable\\dialog_header_selector.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_money.xml.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\layout\\activity_account_money.xml"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_carton_dialog_bg.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\carton_dialog_bg.png"
+    },
+    {
+        "merged": "E:\\BeiXin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_normal.9.png.flat",
+        "source": "E:\\BeiXin\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    }
+]

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_gray_bg"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/common_header" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ScrollView
+            android:id="@+id/scrollview_cart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="60dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <View
+                    android:id="@+id/view_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp" />
+
+                <com.beijing.beixin.utils.ExpandListView
+                    android:id="@+id/listview_shoppingcart"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:listSelector="@android:color/transparent" />
+
+                <LinearLayout
+                    android:id="@+id/layout_nodata"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/linshi_cart" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="购物车是空的"
+                        android:textColor="@color/gray_line"
+                        android:textSize="@dimen/tv_textsize14" />
+
+                    <TextView
+                        android:id="@+id/goto_buy"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/gray_white_rounded_shape"
+                        android:paddingLeft="3dp"
+                        android:paddingRight="3dp"
+                        android:text="去逛逛"
+                        android:textColor="@color/gray_line"
+                        android:textSize="@dimen/tv_textsize14" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1px"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@color/gray_line" />
+
+                        <ImageView
+                            android:layout_width="12dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/mine_tuijian" />
+
+                        <TextView
+                            android:id="@+id/textview_recommend"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="为你推荐"
+                            android:textColor="#727272"
+                            android:textSize="@dimen/tv_textsize12" />
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1px"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@color/gray_line" />
+                    </LinearLayout>
+
+                    <com.beijing.beixin.utils.MyGridView
+                        android:id="@+id/gridview_recommend"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/gray_line"
+                        android:listSelector="@android:color/transparent"
+                        android:numColumns="2" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/layout_topay"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:background="@color/common_dark_black"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/checkbox_selectall"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/checkbox_btn"
+                android:button="@null" />
+
+            <TextView
+                android:id="@+id/textview_selectall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="全选"
+                android:textColor="@color/white"
+                android:textSize="@dimen/tv_textsize17" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="合计:"
+                android:textColor="@color/white"
+                android:textSize="@dimen/tv_textsize18" />
+
+            <TextView
+                android:id="@+id/textview_allprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥0.00"
+                android:textColor="@color/common_red_bg"
+                android:textSize="@dimen/tv_textsize18" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/button_to_pay"
+                android:layout_width="102dp"
+                android:layout_height="match_parent"
+                android:background="@color/common_red_bg"
+                android:gravity="center"
+                android:text="去结算(0)"
+                android:textColor="@color/white"
+                android:textSize="@dimen/tv_textsize20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_delete"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:background="@color/common_gray_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <CheckBox
+                android:id="@+id/checkbox_selectall_edit"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/checkbox_btn"
+                android:button="@null" />
+
+            <TextView
+                android:id="@+id/textview_selectall_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="全选"
+                android:textColor="@color/common_tv_black"
+                android:textSize="@dimen/tv_textsize18" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textview_collection"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/white_rounded_shape"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="移入收藏"
+                android:textColor="@color/common_red_bg"
+                android:textSize="@dimen/tv_textsize16" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/textview_delete"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/white_rounded_shape"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="删除"
+                android:textColor="@color/common_red_bg"
+                android:textSize="@dimen/tv_textsize16" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

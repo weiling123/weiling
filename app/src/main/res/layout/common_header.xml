@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50.0dip" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/title_bar_bg" >
+
+        <ImageView
+            android:id="@+id/navigationLeftImageBtn"
+            style="@style/title_bar_left_imageview"
+            />
+
+        <TextView
+            android:id="@+id/navigation_title"
+            style="@style/title_bar_title" />
+
+        <LinearLayout style="@style/title_bar_layout_right" >
+
+            <Button
+                android:id="@+id/navigationRightBtn"
+                style="@style/title_bar_button_right" />
+
+            <ImageView
+                android:id="@+id/navigationRightImageBtn"
+                style="@style/title_bar_imageview_right" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/common_gray_bg"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- activity title -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/navigationLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/common_header_bg"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp" >
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:gravity="left|center_vertical" >
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:onClick="onBack"
+                                android:src="@drawable/title_bar_back" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/navigation_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="44dp"
+                            android:background="@null"
+                            android:ellipsize="end"
+                            android:gravity="center"
+                            android:singleLine="true"
+                            android:text="@string/book_detail_tab0"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/tv_textsize20" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:gravity="end|center_vertical"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:onClick="onRefresh"
+                                android:src="@drawable/foot"
+                                android:visibility="visible" />
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_marginLeft="10dp"
+                                android:onClick="onShare"
+                                android:src="@drawable/comdemore"
+                                android:visibility="visible" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1sp"
+                        android:background="@color/line" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFF"
+                    android:paddingBottom="15dp"
+                    android:paddingTop="15dip" >
+
+                    <TextView
+                        android:id="@+id/tv_tab_0"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:text="@string/book_detail_tab0"
+                        android:textColor="@color/tv_tips_prodetail"
+                        android:textSize="@dimen/tv_textsize16" />
+
+                    <TextView
+                        android:id="@+id/tv_tab_1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:text="@string/book_detail_tab1"
+                        android:textColor="@color/tv_gray_prodetail"
+                        android:textSize="@dimen/tv_textsize16"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_tab_2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:text="@string/book_detail_tab2"
+                        android:textColor="@color/tv_gray_prodetail"
+                        android:textSize="@dimen/tv_textsize16"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1_no"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFF"
+                    android:paddingBottom="15dp"
+                    android:paddingTop="15dip"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_notab_0"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:text="@string/book_detail_tab0"
+                        android:textColor="@color/tv_tips_prodetail"
+                        android:textSize="@dimen/tv_textsize16" />
+
+                    <TextView
+                        android:id="@+id/tv_notab_1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:text="@string/book_detail_notab1"
+                        android:textColor="@color/tv_gray_prodetail"
+                        android:textSize="@dimen/tv_textsize16" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/line" >
+
+                    <View
+                        android:id="@+id/cursor"
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/tv_tips_prodetail" />
+                </LinearLayout>
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/viewpager"
+                    android:layout_width="fill_parent"
+                    android:layout_marginBottom="50dp"
+                    android:layout_height="fill_parent" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:background="@color/bg_prodetail"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/button_to_pay"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:background="@color/common_red_bg"
+                    android:gravity="center"
+                    android:text="加入购物车"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/tv_textsize17" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toLeftOf="@id/button_to_pay"
+                    android:orientation="horizontal"
+                    android:paddingRight="5dp" >
+
+                    <LinearLayout
+                        android:id="@+id/layout_ask"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/imageview_home_gridview"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/request_icon" />
+
+                        <TextView
+                            android:id="@+id/textview_home_gridview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="咨询"
+                            android:textColor="@color/common_tv_black"
+                            android:textSize="@dimen/tv_textsize12" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_shop"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/bookdetail_shop_icon" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="店铺"
+                            android:textColor="@color/common_tv_black"
+                            android:textSize="@dimen/tv_textsize12" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_collection_pro"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/imageview_collection_pro"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/follow" />
+
+                        <TextView
+                            android:id="@+id/textview_collection_pro"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="收藏"
+                            android:textColor="@color/common_tv_black"
+                            android:textSize="@dimen/tv_textsize12" />
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1" >
+
+                        <LinearLayout
+                            android:id="@+id/ll_addcart"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:textSize="@dimen/tv_textsize12" >
+
+                            <ImageView
+                                android:id="@+id/cart"
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/pro_detail_cart" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5dp"
+                                android:text="购物车"
+                                android:textColor="@color/common_tv_black" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/imagebutton_overlay"
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="right|top"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="2dp"
+                            android:background="@drawable/car_detail_imageview_redpoint"
+                            android:gravity="center"
+                            android:textColor="@color/white"
+                            android:textSize="8sp"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_foot_list"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="25dp"
+            android:text="浏览足迹"
+            android:textColor="#676767"
+            android:textSize="14sp" />
+
+        <ListView
+            android:id="@+id/foot_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/transparent"
+            android:gravity="center" >
+        </ListView>
+    </LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="1px"
+        android:layout_marginRight="1px"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textview_recommend1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:text="公共场所安全"
+            android:maxLines="4"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/common_tv_black"
+            android:textSize="@dimen/tv_textsize14" />
+
+        <ImageView
+            android:id="@+id/imageview_recommend1"
+            android:layout_width="70dp"
+            android:layout_height="70dp" 
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>

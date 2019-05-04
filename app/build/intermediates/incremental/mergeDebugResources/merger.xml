@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res"><file name="notification_bg" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable\notification_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable\notification_bg_low.xml" qualifiers="" type="drawable"/><file name="notification_icon_background" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable\notification_icon_background.xml" qualifiers="" type="drawable"/><file name="notification_tile_bg" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable\notification_tile_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-hdpi-v4\notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-hdpi-v4\notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-hdpi-v4\notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-hdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-hdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-mdpi-v4\notification_bg_low_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-mdpi-v4\notification_bg_low_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-mdpi-v4\notification_bg_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-mdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-mdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_action_background" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-v21\notification_action_background.xml" qualifiers="v21" type="drawable"/><file name="notification_bg_low_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-xhdpi-v4\notification_bg_low_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-xhdpi-v4\notification_bg_low_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-xhdpi-v4\notification_bg_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-xhdpi-v4\notification_bg_normal_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\drawable-xhdpi-v4\notify_panel_notification_icon_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_action" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_action.xml" qualifiers="" type="layout"/><file name="notification_action_tombstone" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_action_tombstone.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_template_custom_big.xml" qualifiers="" type="layout"/><file name="notification_template_icon_group" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_template_icon_group.xml" qualifiers="" type="layout"/><file name="notification_template_part_chronometer" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_template_part_chronometer.xml" qualifiers="" type="layout"/><file name="notification_template_part_time" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout\notification_template_part_time.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout-v16\notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file name="notification_action" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout-v21\notification_action.xml" qualifiers="v21" type="layout"/><file name="notification_action_tombstone" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout-v21\notification_action_tombstone.xml" qualifiers="v21" type="layout"/><file name="notification_template_custom_big" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout-v21\notification_template_custom_big.xml" qualifiers="v21" type="layout"/><file name="notification_template_icon_group" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\layout-v21\notification_template_icon_group.xml" qualifiers="v21" type="layout"/><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values\values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-af\values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-am\values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ar\values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-as\values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-az\values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-b+sr+Latn\values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-be\values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-bg\values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-bn\values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-bs\values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ca\values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-cs\values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-da\values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-de\values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-el\values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-en-rAU\values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-en-rCA\values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-en-rGB\values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-en-rIN\values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-en-rXC\values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-es\values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-es-rUS\values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-et\values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-eu\values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-fa\values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-fi\values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-fr\values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-fr-rCA\values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-gl\values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-gu\values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-hi\values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-hr\values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-hu\values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-hy\values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-in\values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-is\values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-it\values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-iw\values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ja\values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ka\values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-kk\values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-km\values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-kn\values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ko\values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ky\values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-lo\values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-lt\values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-lv\values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-mk\values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ml\values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-mn\values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-mr\values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ms\values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-my\values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-nb\values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ne\values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-nl\values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-or\values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-pa\values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-pl\values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-pt\values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-pt-rPT\values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ro\values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ru\values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-si\values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sk\values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sl\values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sq\values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sr\values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sv\values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-sw\values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ta\values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-te\values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-th\values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-tl\values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-tr\values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-uk\values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-ur\values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-uz\values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-v16\values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-v21\values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b46c168b5af78ee1d89bf2973d0840b7\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0" from-dependency="true" generated-set="com.android.support:coordinatorlayout:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\res"><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb41a445bd3caa53914874eac9000ac7\res\values\values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-media-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res"><file name="notification_media_action" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_media_action.xml" qualifiers="" type="layout"/><file name="notification_media_cancel_action" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_media_cancel_action.xml" qualifiers="" type="layout"/><file name="notification_template_big_media" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_big_media.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_custom" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_big_media_custom.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_big_media_narrow.xml" qualifiers="" type="layout"/><file name="notification_template_big_media_narrow_custom" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_big_media_narrow_custom.xml" qualifiers="" type="layout"/><file name="notification_template_lines_media" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_lines_media.xml" qualifiers="" type="layout"/><file name="notification_template_media" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_media.xml" qualifiers="" type="layout"/><file name="notification_template_media_custom" path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\layout\notification_template_media_custom.xml" qualifiers="" type="layout"/><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\values\values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\values-v21\values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8bd3b6338fabf4e9fd5dd5579b4c95af\res\values-v24\values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\BeiXin\app\src\main\res"/><source path="E:\BeiXin\app\build\generated\res\rs\debug"/><source path="E:\BeiXin\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\BeiXin\app\src\main\res"><file name="dialog_enter" path="E:\BeiXin\app\src\main\res\anim\dialog_enter.xml" qualifiers="" type="anim"/><file name="dialog_exit" path="E:\BeiXin\app\src\main\res\anim\dialog_exit.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="E:\BeiXin\app\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="E:\BeiXin\app\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="E:\BeiXin\app\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="E:\BeiXin\app\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="take_round_photo_load_animation" path="E:\BeiXin\app\src\main\res\anim\take_round_photo_load_animation.xml" qualifiers="" type="anim"/><file name="view_push_up_in" path="E:\BeiXin\app\src\main\res\anim\view_push_up_in.xml" qualifiers="" type="anim"/><file name="view_push_up_out" path="E:\BeiXin\app\src\main\res\anim\view_push_up_out.xml" qualifiers="" type="anim"/><file name="color_font_detail" path="E:\BeiXin\app\src\main\res\color\color_font_detail.xml" qualifiers="" type="color"/><file name="a4h" path="E:\BeiXin\app\src\main\res\drawable\a4h.xml" qualifiers="" type="drawable"/><file name="a4i" path="E:\BeiXin\app\src\main\res\drawable\a4i.xml" qualifiers="" type="drawable"/><file name="a4j" path="E:\BeiXin\app\src\main\res\drawable\a4j.xml" qualifiers="" type="drawable"/><file name="bg_circular_red" path="E:\BeiXin\app\src\main\res\drawable\bg_circular_red.xml" qualifiers="" type="drawable"/><file name="bg_circular_th_red" path="E:\BeiXin\app\src\main\res\drawable\bg_circular_th_red.xml" qualifiers="" type="drawable"/><file name="bg_cri_pageindex" path="E:\BeiXin\app\src\main\res\drawable\bg_cri_pageindex.xml" qualifiers="" type="drawable"/><file name="bg_gray_shape" path="E:\BeiXin\app\src\main\res\drawable\bg_gray_shape.xml" qualifiers="" type="drawable"/><file name="bg_group_select" path="E:\BeiXin\app\src\main\res\drawable\bg_group_select.xml" qualifiers="" type="drawable"/><file name="bg_rect_red_shape" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_red_shape.xml" qualifiers="" type="drawable"/><file name="bg_rect_shape_detail" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_shape_detail.xml" qualifiers="" type="drawable"/><file name="bg_rect_shape_detail_image" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_shape_detail_image.xml" qualifiers="" type="drawable"/><file name="bg_rect_shape_detail_normal" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_shape_detail_normal.xml" qualifiers="" type="drawable"/><file name="bg_rect_shape_detail_press" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_shape_detail_press.xml" qualifiers="" type="drawable"/><file name="bg_rect_white_shape" path="E:\BeiXin\app\src\main\res\drawable\bg_rect_white_shape.xml" qualifiers="" type="drawable"/><file name="bg_tab_select" path="E:\BeiXin\app\src\main\res\drawable\bg_tab_select.xml" qualifiers="" type="drawable"/><file name="checkbox_btn" path="E:\BeiXin\app\src\main\res\drawable\checkbox_btn.xml" qualifiers="" type="drawable"/><file name="classify_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\classify_rounded_shape.xml" qualifiers="" type="drawable"/><file name="common_cart_selector" path="E:\BeiXin\app\src\main\res\drawable\common_cart_selector.xml" qualifiers="" type="drawable"/><file name="common_deladdress_selector_sm" path="E:\BeiXin\app\src\main\res\drawable\common_deladdress_selector_sm.xml" qualifiers="" type="drawable"/><file name="common_editaddress_selector_sm" path="E:\BeiXin\app\src\main\res\drawable\common_editaddress_selector_sm.xml" qualifiers="" type="drawable"/><file name="common_follow_selector" path="E:\BeiXin\app\src\main\res\drawable\common_follow_selector.xml" qualifiers="" type="drawable"/><file name="common_right_arrow_selector" path="E:\BeiXin\app\src\main\res\drawable\common_right_arrow_selector.xml" qualifiers="" type="drawable"/><file name="common_toggle_selector" path="E:\BeiXin\app\src\main\res\drawable\common_toggle_selector.xml" qualifiers="" type="drawable"/><file name="custom_ratingbar_progress" path="E:\BeiXin\app\src\main\res\drawable\custom_ratingbar_progress.xml" qualifiers="" type="drawable"/><file name="custom_ratingbar_progress_big" path="E:\BeiXin\app\src\main\res\drawable\custom_ratingbar_progress_big.xml" qualifiers="" type="drawable"/><file name="dialog_header_selector" path="E:\BeiXin\app\src\main\res\drawable\dialog_header_selector.xml" qualifiers="" type="drawable"/><file name="gray_cover" path="E:\BeiXin\app\src\main\res\drawable\gray_cover.xml" qualifiers="" type="drawable"/><file name="gray_min_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\gray_min_rounded_shape.xml" qualifiers="" type="drawable"/><file name="gray_rect_shape" path="E:\BeiXin\app\src\main\res\drawable\gray_rect_shape.xml" qualifiers="" type="drawable"/><file name="gray_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\gray_rounded_shape.xml" qualifiers="" type="drawable"/><file name="gray_white_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\gray_white_rounded_shape.xml" qualifiers="" type="drawable"/><file name="image_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\image_rounded_shape.xml" qualifiers="" type="drawable"/><file name="image_rounde_red" path="E:\BeiXin\app\src\main\res\drawable\image_rounde_red.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="E:\BeiXin\app\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="E:\BeiXin\app\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="logo_show" path="E:\BeiXin\app\src\main\res\drawable\logo_show.xml" qualifiers="" type="drawable"/><file name="mm_title_back_btn" path="E:\BeiXin\app\src\main\res\drawable\mm_title_back_btn.xml" qualifiers="" type="drawable"/><file name="photo_dialog_in_anim" path="E:\BeiXin\app\src\main\res\drawable\photo_dialog_in_anim.xml" qualifiers="" type="drawable"/><file name="photo_dialog_out_anim" path="E:\BeiXin\app\src\main\res\drawable\photo_dialog_out_anim.xml" qualifiers="" type="drawable"/><file name="red_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\red_rounded_shape.xml" qualifiers="" type="drawable"/><file name="rotate_loading_360" path="E:\BeiXin\app\src\main\res\drawable\rotate_loading_360.xml" qualifiers="" type="drawable"/><file name="scan_mode_book" path="E:\BeiXin\app\src\main\res\drawable\scan_mode_book.xml" qualifiers="" type="drawable"/><file name="scan_mode_qr" path="E:\BeiXin\app\src\main\res\drawable\scan_mode_qr.xml" qualifiers="" type="drawable"/><file name="scan_mode_store" path="E:\BeiXin\app\src\main\res\drawable\scan_mode_store.xml" qualifiers="" type="drawable"/><file name="shape_search_box" path="E:\BeiXin\app\src\main\res\drawable\shape_search_box.xml" qualifiers="" type="drawable"/><file name="take_round_photo_pop_window_textviewbg" path="E:\BeiXin\app\src\main\res\drawable\take_round_photo_pop_window_textviewbg.xml" qualifiers="" type="drawable"/><file name="title_bar_back" path="E:\BeiXin\app\src\main\res\drawable\title_bar_back.xml" qualifiers="" type="drawable"/><file name="title_bar_bg" path="E:\BeiXin\app\src\main\res\drawable\title_bar_bg.xml" qualifiers="" type="drawable"/><file name="white_radius" path="E:\BeiXin\app\src\main\res\drawable\white_radius.xml" qualifiers="" type="drawable"/><file name="white_rounded_shape" path="E:\BeiXin\app\src\main\res\drawable\white_rounded_shape.xml" qualifiers="" type="drawable"/><file name="aboutbeixinwang" path="E:\BeiXin\app\src\main\res\drawable-hdpi\aboutbeixinwang.png" qualifiers="hdpi-v4" type="drawable"/><file name="address_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\address_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="avb" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avb.png" qualifiers="hdpi-v4" type="drawable"/><file name="avc" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avc.png" qualifiers="hdpi-v4" type="drawable"/><file name="avd" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avd.png" qualifiers="hdpi-v4" type="drawable"/><file name="ave" path="E:\BeiXin\app\src\main\res\drawable-hdpi\ave.png" qualifiers="hdpi-v4" type="drawable"/><file name="avf" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avf.png" qualifiers="hdpi-v4" type="drawable"/><file name="avg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avg.png" qualifiers="hdpi-v4" type="drawable"/><file name="avh" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avh.png" qualifiers="hdpi-v4" type="drawable"/><file name="avi" path="E:\BeiXin\app\src\main\res\drawable-hdpi\avi.png" qualifiers="hdpi-v4" type="drawable"/><file name="bao" path="E:\BeiXin\app\src\main\res\drawable-hdpi\bao.png" qualifiers="hdpi-v4" type="drawable"/><file name="bookdetail_shop_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\bookdetail_shop_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="bx_news" path="E:\BeiXin\app\src\main\res\drawable-hdpi\bx_news.png" qualifiers="hdpi-v4" type="drawable"/><file name="cancel_dialog_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\cancel_dialog_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="carton_dialog_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\carton_dialog_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="car_detail_imageview_redpoint" path="E:\BeiXin\app\src\main\res\drawable-hdpi\car_detail_imageview_redpoint.png" qualifiers="hdpi-v4" type="drawable"/><file name="car_detail_star" path="E:\BeiXin\app\src\main\res\drawable-hdpi\car_detail_star.png" qualifiers="hdpi-v4" type="drawable"/><file name="car_detail_star_empty" path="E:\BeiXin\app\src\main\res\drawable-hdpi\car_detail_star_empty.png" qualifiers="hdpi-v4" type="drawable"/><file name="classify_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\classify_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="classify_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\classify_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="close_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\close_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="comdemore" path="E:\BeiXin\app\src\main\res\drawable-hdpi\comdemore.png" qualifiers="hdpi-v4" type="drawable"/><file name="common_dialog_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\common_dialog_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="common_right_arrow_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\common_right_arrow_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="common_shop_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\common_shop_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="common_tips_selected_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\common_tips_selected_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="common_tips_unselect_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\common_tips_unselect_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="coupon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\coupon.png" qualifiers="hdpi-v4" type="drawable"/><file name="coupon_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\coupon_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="coupon_selected" path="E:\BeiXin\app\src\main\res\drawable-hdpi\coupon_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="cpay" path="E:\BeiXin\app\src\main\res\drawable-hdpi\cpay.png" qualifiers="hdpi-v4" type="drawable"/><file name="customerservice_default" path="E:\BeiXin\app\src\main\res\drawable-hdpi\customerservice_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="E:\BeiXin\app\src\main\res\drawable-hdpi\default_ptr_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="E:\BeiXin\app\src\main\res\drawable-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="deletebutton_default" path="E:\BeiXin\app\src\main\res\drawable-hdpi\deletebutton_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="deletebutton_touchdown" path="E:\BeiXin\app\src\main\res\drawable-hdpi\deletebutton_touchdown.png" qualifiers="hdpi-v4" type="drawable"/><file name="edit" path="E:\BeiXin\app\src\main\res\drawable-hdpi\edit.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbutton_default" path="E:\BeiXin\app\src\main\res\drawable-hdpi\editbutton_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbutton_touchdown" path="E:\BeiXin\app\src\main\res\drawable-hdpi\editbutton_touchdown.png" qualifiers="hdpi-v4" type="drawable"/><file name="entershop" path="E:\BeiXin\app\src\main\res\drawable-hdpi\entershop.png" qualifiers="hdpi-v4" type="drawable"/><file name="exit_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\exit_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="failure" path="E:\BeiXin\app\src\main\res\drawable-hdpi\failure.png" qualifiers="hdpi-v4" type="drawable"/><file name="favoritebutton_selected" path="E:\BeiXin\app\src\main\res\drawable-hdpi\favoritebutton_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="favoritebutton_unselected" path="E:\BeiXin\app\src\main\res\drawable-hdpi\favoritebutton_unselected.png" qualifiers="hdpi-v4" type="drawable"/><file name="find_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\find_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="find_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\find_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="follow" path="E:\BeiXin\app\src\main\res\drawable-hdpi\follow.png" qualifiers="hdpi-v4" type="drawable"/><file name="followr" path="E:\BeiXin\app\src\main\res\drawable-hdpi\followr.png" qualifiers="hdpi-v4" type="drawable"/><file name="foot" path="E:\BeiXin\app\src\main\res\drawable-hdpi\foot.png" qualifiers="hdpi-v4" type="drawable"/><file name="goods" path="E:\BeiXin\app\src\main\res\drawable-hdpi\goods.png" qualifiers="hdpi-v4" type="drawable"/><file name="grey_cart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\grey_cart.png" qualifiers="hdpi-v4" type="drawable"/><file name="grey_heart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\grey_heart.png" qualifiers="hdpi-v4" type="drawable"/><file name="header_glyph" path="E:\BeiXin\app\src\main\res\drawable-hdpi\header_glyph.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_exit_black" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_exit_black.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_exit_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_exit_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_login_black" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_login_black.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_login_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_login_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_scan_black" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_scan_black.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_scan_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_scan_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\home_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_delete" path="E:\BeiXin\app\src\main\res\drawable-hdpi\icon_delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_search" path="E:\BeiXin\app\src\main\res\drawable-hdpi\icon_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_wait" path="E:\BeiXin\app\src\main\res\drawable-hdpi\icon_wait.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\BeiXin\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="E:\BeiXin\app\src\main\res\drawable-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="judge" path="E:\BeiXin\app\src\main\res\drawable-hdpi\judge.png" qualifiers="hdpi-v4" type="drawable"/><file name="linshi_cart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\linshi_cart.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_order_down_gray" path="E:\BeiXin\app\src\main\res\drawable-hdpi\list_order_down_gray.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_order_down_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\list_order_down_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_order_up_gray" path="E:\BeiXin\app\src\main\res\drawable-hdpi\list_order_up_gray.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_order_up_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\list_order_up_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_logo" path="E:\BeiXin\app\src\main\res\drawable-hdpi\login_logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="main_cart_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\main_cart_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="main_cart_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\main_cart_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="member_red" path="E:\BeiXin\app\src\main\res\drawable-hdpi\member_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="member_white" path="E:\BeiXin\app\src\main\res\drawable-hdpi\member_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="mineballatin" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mineballatin.png" qualifiers="hdpi-v4" type="drawable"/><file name="mine_bitmap" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mine_bitmap.png" qualifiers="hdpi-v4" type="drawable"/><file name="mine_defaulticon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mine_defaulticon.png" qualifiers="hdpi-v4" type="drawable"/><file name="mine_tuijian" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mine_tuijian.png" qualifiers="hdpi-v4" type="drawable"/><file name="mmtitle_bg_alpha" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mmtitle_bg_alpha.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_focused" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mm_title_back_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_normal" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mm_title_back_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_pressed" path="E:\BeiXin\app\src\main\res\drawable-hdpi\mm_title_back_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="modify" path="E:\BeiXin\app\src\main\res\drawable-hdpi\modify.png" qualifiers="hdpi-v4" type="drawable"/><file name="money" path="E:\BeiXin\app\src\main\res\drawable-hdpi\money.png" qualifiers="hdpi-v4" type="drawable"/><file name="order" path="E:\BeiXin\app\src\main\res\drawable-hdpi\order.png" qualifiers="hdpi-v4" type="drawable"/><file name="orderdetails_c" path="E:\BeiXin\app\src\main\res\drawable-hdpi\orderdetails_c.png" qualifiers="hdpi-v4" type="drawable"/><file name="orderdetails_loction" path="E:\BeiXin\app\src\main\res\drawable-hdpi\orderdetails_loction.png" qualifiers="hdpi-v4" type="drawable"/><file name="own" path="E:\BeiXin\app\src\main\res\drawable-hdpi\own.png" qualifiers="hdpi-v4" type="drawable"/><file name="page_refresh" path="E:\BeiXin\app\src\main\res\drawable-hdpi\page_refresh.png" qualifiers="hdpi-v4" type="drawable"/><file name="pro_detail_cart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\pro_detail_cart.png" qualifiers="hdpi-v4" type="drawable"/><file name="pulltorefresh_icon_loading" path="E:\BeiXin\app\src\main\res\drawable-hdpi\pulltorefresh_icon_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="pulltorefresh_icon_update" path="E:\BeiXin\app\src\main\res\drawable-hdpi\pulltorefresh_icon_update.png" qualifiers="hdpi-v4" type="drawable"/><file name="qr" path="E:\BeiXin\app\src\main\res\drawable-hdpi\qr.png" qualifiers="hdpi-v4" type="drawable"/><file name="qrcode_scan_line" path="E:\BeiXin\app\src\main\res\drawable-hdpi\qrcode_scan_line.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_arrow_down" path="E:\BeiXin\app\src\main\res\drawable-hdpi\red_arrow_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_arrow_up" path="E:\BeiXin\app\src\main\res\drawable-hdpi\red_arrow_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_cart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\red_cart.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_heart" path="E:\BeiXin\app\src\main\res\drawable-hdpi\red_heart.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_wallet" path="E:\BeiXin\app\src\main\res\drawable-hdpi\red_wallet.png" qualifiers="hdpi-v4" type="drawable"/><file name="request_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\request_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_book" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_book.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_book_hl" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_book_hl.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_qr" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_qr.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_qr_hl" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_qr_hl.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_store" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_store.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_store_hl" path="E:\BeiXin\app\src\main\res\drawable-hdpi\scan_store_hl.png" qualifiers="hdpi-v4" type="drawable"/><file name="search_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\search_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="select_g" path="E:\BeiXin\app\src\main\res\drawable-hdpi\select_g.png" qualifiers="hdpi-v4" type="drawable"/><file name="select_r" path="E:\BeiXin\app\src\main\res\drawable-hdpi\select_r.png" qualifiers="hdpi-v4" type="drawable"/><file name="setup" path="E:\BeiXin\app\src\main\res\drawable-hdpi\setup.png" qualifiers="hdpi-v4" type="drawable"/><file name="set_account" path="E:\BeiXin\app\src\main\res\drawable-hdpi\set_account.png" qualifiers="hdpi-v4" type="drawable"/><file name="set_address" path="E:\BeiXin\app\src\main\res\drawable-hdpi\set_address.png" qualifiers="hdpi-v4" type="drawable"/><file name="set_guanyu" path="E:\BeiXin\app\src\main\res\drawable-hdpi\set_guanyu.png" qualifiers="hdpi-v4" type="drawable"/><file name="set_ves" path="E:\BeiXin\app\src\main\res\drawable-hdpi\set_ves.png" qualifiers="hdpi-v4" type="drawable"/><file name="set_yinsi" path="E:\BeiXin\app\src\main\res\drawable-hdpi\set_yinsi.png" qualifiers="hdpi-v4" type="drawable"/><file name="share_button" path="E:\BeiXin\app\src\main\res\drawable-hdpi\share_button.png" qualifiers="hdpi-v4" type="drawable"/><file name="shouchang" path="E:\BeiXin\app\src\main\res\drawable-hdpi\shouchang.png" qualifiers="hdpi-v4" type="drawable"/><file name="shouye" path="E:\BeiXin\app\src\main\res\drawable-hdpi\shouye.png" qualifiers="hdpi-v4" type="drawable"/><file name="silver_medal" path="E:\BeiXin\app\src\main\res\drawable-hdpi\silver_medal.png" qualifiers="hdpi-v4" type="drawable"/><file name="sousuo" path="E:\BeiXin\app\src\main\res\drawable-hdpi\sousuo.png" qualifiers="hdpi-v4" type="drawable"/><file name="start_pass" path="E:\BeiXin\app\src\main\res\drawable-hdpi\start_pass.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_normal" path="E:\BeiXin\app\src\main\res\drawable-hdpi\star_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_press" path="E:\BeiXin\app\src\main\res\drawable-hdpi\star_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="store" path="E:\BeiXin\app\src\main\res\drawable-hdpi\store.png" qualifiers="hdpi-v4" type="drawable"/><file name="success" path="E:\BeiXin\app\src\main\res\drawable-hdpi\success.png" qualifiers="hdpi-v4" type="drawable"/><file name="sure_dialog_bg" path="E:\BeiXin\app\src\main\res\drawable-hdpi\sure_dialog_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="take_round_photo_arrow_left" path="E:\BeiXin\app\src\main\res\drawable-hdpi\take_round_photo_arrow_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="take_round_photo_loading" path="E:\BeiXin\app\src\main\res\drawable-hdpi\take_round_photo_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="tankuang" path="E:\BeiXin\app\src\main\res\drawable-hdpi\tankuang.png" qualifiers="hdpi-v4" type="drawable"/><file name="tel_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\tel_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="temp_icon_4" path="E:\BeiXin\app\src\main\res\drawable-hdpi\temp_icon_4.png" qualifiers="hdpi-v4" type="drawable"/><file name="tem_icon_1" path="E:\BeiXin\app\src\main\res\drawable-hdpi\tem_icon_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="tem_icon_2" path="E:\BeiXin\app\src\main\res\drawable-hdpi\tem_icon_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="ticket_get" path="E:\BeiXin\app\src\main\res\drawable-hdpi\ticket_get.png" qualifiers="hdpi-v4" type="drawable"/><file name="ticket_timeout" path="E:\BeiXin\app\src\main\res\drawable-hdpi\ticket_timeout.png" qualifiers="hdpi-v4" type="drawable"/><file name="ticket_used" path="E:\BeiXin\app\src\main\res\drawable-hdpi\ticket_used.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_bar_back_false" path="E:\BeiXin\app\src\main\res\drawable-hdpi\title_bar_back_false.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_bar_back_true" path="E:\BeiXin\app\src\main\res\drawable-hdpi\title_bar_back_true.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\title_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_btn_checked" path="E:\BeiXin\app\src\main\res\drawable-hdpi\toggle_btn_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_btn_unchecked" path="E:\BeiXin\app\src\main\res\drawable-hdpi\toggle_btn_unchecked.png" qualifiers="hdpi-v4" type="drawable"/><file name="types" path="E:\BeiXin\app\src\main\res\drawable-hdpi\types.png" qualifiers="hdpi-v4" type="drawable"/><file name="unionpay" path="E:\BeiXin\app\src\main\res\drawable-hdpi\unionpay.png" qualifiers="hdpi-v4" type="drawable"/><file name="unpay" path="E:\BeiXin\app\src\main\res\drawable-hdpi\unpay.png" qualifiers="hdpi-v4" type="drawable"/><file name="usericon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\usericon.png" qualifiers="hdpi-v4" type="drawable"/><file name="user_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\user_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="wallet" path="E:\BeiXin\app\src\main\res\drawable-hdpi\wallet.png" qualifiers="hdpi-v4" type="drawable"/><file name="wallet_icon" path="E:\BeiXin\app\src\main\res\drawable-hdpi\wallet_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="weixin" path="E:\BeiXin\app\src\main\res\drawable-hdpi\weixin.png" qualifiers="hdpi-v4" type="drawable"/><file name="zuji" path="E:\BeiXin\app\src\main\res\drawable-hdpi\zuji.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\BeiXin\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="E:\BeiXin\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_load_faile" path="E:\BeiXin\app\src\main\res\drawable-xhdpi\icon_load_faile.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\BeiXin\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="title_bar_back_false" path="E:\BeiXin\app\src\main\res\drawable-xhdpi\title_bar_back_false.png" qualifiers="xhdpi-v4" type="drawable"/><file name="title_bar_back_true" path="E:\BeiXin\app\src\main\res\drawable-xhdpi\title_bar_back_true.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\BeiXin\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="index_00" path="E:\BeiXin\app\src\main\res\drawable-xxhdpi\index_00.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="index_01" path="E:\BeiXin\app\src\main\res\drawable-xxhdpi\index_01.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="index_02" path="E:\BeiXin\app\src\main\res\drawable-xxhdpi\index_02.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="start" path="E:\BeiXin\app\src\main\res\drawable-xxhdpi\start.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_account_money" path="E:\BeiXin\app\src\main\res\layout\activity_account_money.xml" qualifiers="" type="layout"/><file name="activity_account_security" path="E:\BeiXin\app\src\main\res\layout\activity_account_security.xml" qualifiers="" type="layout"/><file name="activity_address" path="E:\BeiXin\app\src\main\res\layout\activity_address.xml" qualifiers="" type="layout"/><file name="activity_add_address" path="E:\BeiXin\app\src\main\res\layout\activity_add_address.xml" qualifiers="" type="layout"/><file name="activity_adv" path="E:\BeiXin\app\src\main\res\layout\activity_adv.xml" qualifiers="" type="layout"/><file name="activity_area" path="E:\BeiXin\app\src\main\res\layout\activity_area.xml" qualifiers="" type="layout"/><file name="activity_asset_center" path="E:\BeiXin\app\src\main\res\layout\activity_asset_center.xml" qualifiers="" type="layout"/><file name="activity_balance_pay" path="E:\BeiXin\app\src\main\res\layout\activity_balance_pay.xml" qualifiers="" type="layout"/><file name="activity_book_detail" path="E:\BeiXin\app\src\main\res\layout\activity_book_detail.xml" qualifiers="" type="layout"/><file name="activity_book_detail_more" path="E:\BeiXin\app\src\main\res\layout\activity_book_detail_more.xml" qualifiers="" type="layout"/><file name="activity_book_detail_title" path="E:\BeiXin\app\src\main\res\layout\activity_book_detail_title.xml" qualifiers="" type="layout"/><file name="activity_browse_the_footprint" path="E:\BeiXin\app\src\main\res\layout\activity_browse_the_footprint.xml" qualifiers="" type="layout"/><file name="activity_capture" path="E:\BeiXin\app\src\main\res\layout\activity_capture.xml" qualifiers="" type="layout"/><file name="activity_checkstand" path="E:\BeiXin\app\src\main\res\layout\activity_checkstand.xml" qualifiers="" type="layout"/><file name="activity_classify_more_product" path="E:\BeiXin\app\src\main\res\layout\activity_classify_more_product.xml" qualifiers="" type="layout"/><file name="activity_counpon" path="E:\BeiXin\app\src\main\res\layout\activity_counpon.xml" qualifiers="" type="layout"/><file name="activity_eight_area" path="E:\BeiXin\app\src\main\res\layout\activity_eight_area.xml" qualifiers="" type="layout"/><file name="activity_evaluation_single" path="E:\BeiXin\app\src\main\res\layout\activity_evaluation_single.xml" qualifiers="" type="layout"/><file name="activity_good_comment" path="E:\BeiXin\app\src\main\res\layout\activity_good_comment.xml" qualifiers="" type="layout"/><file name="activity_go_pay_order" path="E:\BeiXin\app\src\main\res\layout\activity_go_pay_order.xml" qualifiers="" type="layout"/><file name="activity_group_buy" path="E:\BeiXin\app\src\main\res\layout\activity_group_buy.xml" qualifiers="" type="layout"/><file name="activity_group_soon" path="E:\BeiXin\app\src\main\res\layout\activity_group_soon.xml" qualifiers="" type="layout"/><file name="activity_hot_product_list" path="E:\BeiXin\app\src\main\res\layout\activity_hot_product_list.xml" qualifiers="" type="layout"/><file name="activity_invoice" path="E:\BeiXin\app\src\main\res\layout\activity_invoice.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\BeiXin\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_my_account" path="E:\BeiXin\app\src\main\res\layout\activity_my_account.xml" qualifiers="" type="layout"/><file name="activity_my_collection" path="E:\BeiXin\app\src\main\res\layout\activity_my_collection.xml" qualifiers="" type="layout"/><file name="activity_my_coupon" path="E:\BeiXin\app\src\main\res\layout\activity_my_coupon.xml" qualifiers="" type="layout"/><file name="activity_my_ticket" path="E:\BeiXin\app\src\main\res\layout\activity_my_ticket.xml" qualifiers="" type="layout"/><file name="activity_new_product" path="E:\BeiXin\app\src\main\res\layout\activity_new_product.xml" qualifiers="" type="layout"/><file name="activity_order" path="E:\BeiXin\app\src\main\res\layout\activity_order.xml" qualifiers="" type="layout"/><file name="activity_order_detail" path="E:\BeiXin\app\src\main\res\layout\activity_order_detail.xml" qualifiers="" type="layout"/><file name="activity_pay" path="E:\BeiXin\app\src\main\res\layout\activity_pay.xml" qualifiers="" type="layout"/><file name="activity_payorsend" path="E:\BeiXin\app\src\main\res\layout\activity_payorsend.xml" qualifiers="" type="layout"/><file name="activity_pay_order_success" path="E:\BeiXin\app\src\main\res\layout\activity_pay_order_success.xml" qualifiers="" type="layout"/><file name="activity_pay_pwd" path="E:\BeiXin\app\src\main\res\layout\activity_pay_pwd.xml" qualifiers="" type="layout"/><file name="activity_product_list" path="E:\BeiXin\app\src\main\res\layout\activity_product_list.xml" qualifiers="" type="layout"/><file name="activity_product_list_shoppingcart" path="E:\BeiXin\app\src\main\res\layout\activity_product_list_shoppingcart.xml" qualifiers="" type="layout"/><file name="activity_qrcode" path="E:\BeiXin\app\src\main\res\layout\activity_qrcode.xml" qualifiers="" type="layout"/><file name="activity_qrcode_ticket" path="E:\BeiXin\app\src\main\res\layout\activity_qrcode_ticket.xml" qualifiers="" type="layout"/><file name="activity_result" path="E:\BeiXin\app\src\main\res\layout\activity_result.xml" qualifiers="" type="layout"/><file name="activity_search" path="E:\BeiXin\app\src\main\res\layout\activity_search.xml" qualifiers="" type="layout"/><file name="activity_select_people" path="E:\BeiXin\app\src\main\res\layout\activity_select_people.xml" qualifiers="" type="layout"/><file name="activity_setting" path="E:\BeiXin\app\src\main\res\layout\activity_setting.xml" qualifiers="" type="layout"/><file name="activity_shop" path="E:\BeiXin\app\src\main\res\layout\activity_shop.xml" qualifiers="" type="layout"/><file name="activity_shopcart" path="E:\BeiXin\app\src\main\res\layout\activity_shopcart.xml" qualifiers="" type="layout"/><file name="activity_start" path="E:\BeiXin\app\src\main\res\layout\activity_start.xml" qualifiers="" type="layout"/><file name="activity_submit_order" path="E:\BeiXin\app\src\main\res\layout\activity_submit_order.xml" qualifiers="" type="layout"/><file name="activity_takeroundphoto_clipimage" path="E:\BeiXin\app\src\main\res\layout\activity_takeroundphoto_clipimage.xml" qualifiers="" type="layout"/><file name="activity_terms" path="E:\BeiXin\app\src\main\res\layout\activity_terms.xml" qualifiers="" type="layout"/><file name="activity_update_address" path="E:\BeiXin\app\src\main\res\layout\activity_update_address.xml" qualifiers="" type="layout"/><file name="activity_update_email" path="E:\BeiXin\app\src\main\res\layout\activity_update_email.xml" qualifiers="" type="layout"/><file name="activity_update_mobile" path="E:\BeiXin\app\src\main\res\layout\activity_update_mobile.xml" qualifiers="" type="layout"/><file name="activity_update_name" path="E:\BeiXin\app\src\main\res\layout\activity_update_name.xml" qualifiers="" type="layout"/><file name="activity_update_sex" path="E:\BeiXin\app\src\main\res\layout\activity_update_sex.xml" qualifiers="" type="layout"/><file name="base_load_dialog" path="E:\BeiXin\app\src\main\res\layout\base_load_dialog.xml" qualifiers="" type="layout"/><file name="classify_fragment" path="E:\BeiXin\app\src\main\res\layout\classify_fragment.xml" qualifiers="" type="layout"/><file name="commom_price_group" path="E:\BeiXin\app\src\main\res\layout\commom_price_group.xml" qualifiers="" type="layout"/><file name="commom_tag_group" path="E:\BeiXin\app\src\main\res\layout\commom_tag_group.xml" qualifiers="" type="layout"/><file name="common_header" path="E:\BeiXin\app\src\main\res\layout\common_header.xml" qualifiers="" type="layout"/><file name="connect_product_item" path="E:\BeiXin\app\src\main\res\layout\connect_product_item.xml" qualifiers="" type="layout"/><file name="dialog_post_select" path="E:\BeiXin\app\src\main\res\layout\dialog_post_select.xml" qualifiers="" type="layout"/><file name="fragment_book_detail" path="E:\BeiXin\app\src\main\res\layout\fragment_book_detail.xml" qualifiers="" type="layout"/><file name="fragment_book_detail_comments" path="E:\BeiXin\app\src\main\res\layout\fragment_book_detail_comments.xml" qualifiers="" type="layout"/><file name="fragment_book_detail_goods" path="E:\BeiXin\app\src\main\res\layout\fragment_book_detail_goods.xml" qualifiers="" type="layout"/><file name="fragment_book_detail_more_info" path="E:\BeiXin\app\src\main\res\layout\fragment_book_detail_more_info.xml" qualifiers="" type="layout"/><file name="fragment_group_buy" path="E:\BeiXin\app\src\main\res\layout\fragment_group_buy.xml" qualifiers="" type="layout"/><file name="fragment_group_new_book" path="E:\BeiXin\app\src\main\res\layout\fragment_group_new_book.xml" qualifiers="" type="layout"/><file name="fragment_group_soon" path="E:\BeiXin\app\src\main\res\layout\fragment_group_soon.xml" qualifiers="" type="layout"/><file name="fragment_webview" path="E:\BeiXin\app\src\main\res\layout\fragment_webview.xml" qualifiers="" type="layout"/><file name="guidefragment" path="E:\BeiXin\app\src\main\res\layout\guidefragment.xml" qualifiers="" type="layout"/><file name="home_fragment" path="E:\BeiXin\app\src\main\res\layout\home_fragment.xml" qualifiers="" type="layout"/><file name="horizontallistview_item" path="E:\BeiXin\app\src\main\res\layout\horizontallistview_item.xml" qualifiers="" type="layout"/><file name="include_load_faile" path="E:\BeiXin\app\src\main\res\layout\include_load_faile.xml" qualifiers="" type="layout"/><file name="item_address" path="E:\BeiXin\app\src\main\res\layout\item_address.xml" qualifiers="" type="layout"/><file name="item_area" path="E:\BeiXin\app\src\main\res\layout\item_area.xml" qualifiers="" type="layout"/><file name="item_book_detail_list" path="E:\BeiXin\app\src\main\res\layout\item_book_detail_list.xml" qualifiers="" type="layout"/><file name="item_book_package_list" path="E:\BeiXin\app\src\main\res\layout\item_book_package_list.xml" qualifiers="" type="layout"/><file name="item_browse_the_footprint" path="E:\BeiXin\app\src\main\res\layout\item_browse_the_footprint.xml" qualifiers="" type="layout"/><file name="item_cartshop_edit" path="E:\BeiXin\app\src\main\res\layout\item_cartshop_edit.xml" qualifiers="" type="layout"/><file name="item_classify_left" path="E:\BeiXin\app\src\main\res\layout\item_classify_left.xml" qualifiers="" type="layout"/><file name="item_classify_right" path="E:\BeiXin\app\src\main\res\layout\item_classify_right.xml" qualifiers="" type="layout"/><file name="item_classify_right_textview" path="E:\BeiXin\app\src\main\res\layout\item_classify_right_textview.xml" qualifiers="" type="layout"/><file name="item_comment_list_item" path="E:\BeiXin\app\src\main\res\layout\item_comment_list_item.xml" qualifiers="" type="layout"/><file name="item_comment_order" path="E:\BeiXin\app\src\main\res\layout\item_comment_order.xml" qualifiers="" type="layout"/><file name="item_common_textview" path="E:\BeiXin\app\src\main\res\layout\item_common_textview.xml" qualifiers="" type="layout"/><file name="item_coupon" path="E:\BeiXin\app\src\main\res\layout\item_coupon.xml" qualifiers="" type="layout"/><file name="item_foot_list" path="E:\BeiXin\app\src\main\res\layout\item_foot_list.xml" qualifiers="" type="layout"/><file name="item_frag_comment_list" path="E:\BeiXin\app\src\main\res\layout\item_frag_comment_list.xml" qualifiers="" type="layout"/><file name="item_group_buy_book" path="E:\BeiXin\app\src\main\res\layout\item_group_buy_book.xml" qualifiers="" type="layout"/><file name="item_group_buy_list" path="E:\BeiXin\app\src\main\res\layout\item_group_buy_list.xml" qualifiers="" type="layout"/><file name="item_group_soon_book" path="E:\BeiXin\app\src\main\res\layout\item_group_soon_book.xml" qualifiers="" type="layout"/><file name="item_home_gridview" path="E:\BeiXin\app\src\main\res\layout\item_home_gridview.xml" qualifiers="" type="layout"/><file name="item_home_special_list" path="E:\BeiXin\app\src\main\res\layout\item_home_special_list.xml" qualifiers="" type="layout"/><file name="item_hotseach" path="E:\BeiXin\app\src\main\res\layout\item_hotseach.xml" qualifiers="" type="layout"/><file name="item_more_product" path="E:\BeiXin\app\src\main\res\layout\item_more_product.xml" qualifiers="" type="layout"/><file name="item_new_book_list" path="E:\BeiXin\app\src\main\res\layout\item_new_book_list.xml" qualifiers="" type="layout"/><file name="item_orderdetail" path="E:\BeiXin\app\src\main\res\layout\item_orderdetail.xml" qualifiers="" type="layout"/><file name="item_orders" path="E:\BeiXin\app\src\main\res\layout\item_orders.xml" qualifiers="" type="layout"/><file name="item_order_list" path="E:\BeiXin\app\src\main\res\layout\item_order_list.xml" qualifiers="" type="layout"/><file name="item_popupwindow" path="E:\BeiXin\app\src\main\res\layout\item_popupwindow.xml" qualifiers="" type="layout"/><file name="item_product_collection" path="E:\BeiXin\app\src\main\res\layout\item_product_collection.xml" qualifiers="" type="layout"/><file name="item_product_list" path="E:\BeiXin\app\src\main\res\layout\item_product_list.xml" qualifiers="" type="layout"/><file name="item_product_shoppingcart_list" path="E:\BeiXin\app\src\main\res\layout\item_product_shoppingcart_list.xml" qualifiers="" type="layout"/><file name="item_promotion" path="E:\BeiXin\app\src\main\res\layout\item_promotion.xml" qualifiers="" type="layout"/><file name="item_recommend_gridview" path="E:\BeiXin\app\src\main\res\layout\item_recommend_gridview.xml" qualifiers="" type="layout"/><file name="item_select_people" path="E:\BeiXin\app\src\main\res\layout\item_select_people.xml" qualifiers="" type="layout"/><file name="item_send_way" path="E:\BeiXin\app\src\main\res\layout\item_send_way.xml" qualifiers="" type="layout"/><file name="item_send_way_gridview" path="E:\BeiXin\app\src\main\res\layout\item_send_way_gridview.xml" qualifiers="" type="layout"/><file name="item_shop" path="E:\BeiXin\app\src\main\res\layout\item_shop.xml" qualifiers="" type="layout"/><file name="item_shoppingcart_list" path="E:\BeiXin\app\src\main\res\layout\item_shoppingcart_list.xml" qualifiers="" type="layout"/><file name="item_shoppingcart_second_list" path="E:\BeiXin\app\src\main\res\layout\item_shoppingcart_second_list.xml" qualifiers="" type="layout"/><file name="item_shop_collection" path="E:\BeiXin\app\src\main\res\layout\item_shop_collection.xml" qualifiers="" type="layout"/><file name="item_submit_address" path="E:\BeiXin\app\src\main\res\layout\item_submit_address.xml" qualifiers="" type="layout"/><file name="item_submit_order_list" path="E:\BeiXin\app\src\main\res\layout\item_submit_order_list.xml" qualifiers="" type="layout"/><file name="item_submit_order_product" path="E:\BeiXin\app\src\main\res\layout\item_submit_order_product.xml" qualifiers="" type="layout"/><file name="item_ticket" path="E:\BeiXin\app\src\main\res\layout\item_ticket.xml" qualifiers="" type="layout"/><file name="loading_dialog" path="E:\BeiXin\app\src\main\res\layout\loading_dialog.xml" qualifiers="" type="layout"/><file name="myself_login" path="E:\BeiXin\app\src\main\res\layout\myself_login.xml" qualifiers="" type="layout"/><file name="myself_member_fragment" path="E:\BeiXin\app\src\main\res\layout\myself_member_fragment.xml" qualifiers="" type="layout"/><file name="myself_register" path="E:\BeiXin\app\src\main\res\layout\myself_register.xml" qualifiers="" type="layout"/><file name="myself_register2" path="E:\BeiXin\app\src\main\res\layout\myself_register2.xml" qualifiers="" type="layout"/><file name="package_list_detail" path="E:\BeiXin\app\src\main\res\layout\package_list_detail.xml" qualifiers="" type="layout"/><file name="photo" path="E:\BeiXin\app\src\main\res\layout\photo.xml" qualifiers="" type="layout"/><file name="please_in_userinfo_tishi" path="E:\BeiXin\app\src\main\res\layout\please_in_userinfo_tishi.xml" qualifiers="" type="layout"/><file name="popupwindow_list" path="E:\BeiXin\app\src\main\res\layout\popupwindow_list.xml" qualifiers="" type="layout"/><file name="pop_more" path="E:\BeiXin\app\src\main\res\layout\pop_more.xml" qualifiers="" type="layout"/><file name="product_list" path="E:\BeiXin\app\src\main\res\layout\product_list.xml" qualifiers="" type="layout"/><file name="pulllist_fragment" path="E:\BeiXin\app\src\main\res\layout\pulllist_fragment.xml" qualifiers="" type="layout"/><file name="pulltorefresh_xlistview_footer" path="E:\BeiXin\app\src\main\res\layout\pulltorefresh_xlistview_footer.xml" qualifiers="" type="layout"/><file name="pulltorefresh_xlistview_header" path="E:\BeiXin\app\src\main\res\layout\pulltorefresh_xlistview_header.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="E:\BeiXin\app\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="E:\BeiXin\app\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="row_book_detail_dialog_grid" path="E:\BeiXin\app\src\main\res\layout\row_book_detail_dialog_grid.xml" qualifiers="" type="layout"/><file name="row_book_detail_dialog_item" path="E:\BeiXin\app\src\main\res\layout\row_book_detail_dialog_item.xml" qualifiers="" type="layout"/><file name="shoppingcart_fragment" path="E:\BeiXin\app\src\main\res\layout\shoppingcart_fragment.xml" qualifiers="" type="layout"/><file name="tab_group_custom" path="E:\BeiXin\app\src\main\res\layout\tab_group_custom.xml" qualifiers="" type="layout"/><file name="tab_product_custom" path="E:\BeiXin\app\src\main\res\layout\tab_product_custom.xml" qualifiers="" type="layout"/><file name="take_round_photo_clipactivity_loading" path="E:\BeiXin\app\src\main\res\layout\take_round_photo_clipactivity_loading.xml" qualifiers="" type="layout"/><file name="take_round_photo_pop_window" path="E:\BeiXin\app\src\main\res\layout\take_round_photo_pop_window.xml" qualifiers="" type="layout"/><file name="view_bank_header" path="E:\BeiXin\app\src\main\res\layout\view_bank_header.xml" qualifiers="" type="layout"/><file name="view_bank_layout" path="E:\BeiXin\app\src\main\res\layout\view_bank_layout.xml" qualifiers="" type="layout"/><file name="widget_dialog" path="E:\BeiXin\app\src\main\res\layout\widget_dialog.xml" qualifiers="" type="layout"/><file name="beep" path="E:\BeiXin\app\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="E:\BeiXin\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="RoundImageView">
+        <attr format="dimension" name="borderRadius"/>
+        <attr format="reference" name="borderColor"/>
+        <attr format="dimension" name="border"/>
+        <attr name="type">
+            <enum name="circle" value="0"/>
+            <enum name="round" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+        <attr format="boolean" name="border_overlay"/>
+    </declare-styleable><declare-styleable name="HorizontalListView">
+        <attr format="dimension" name="dividerWidth"/>
+        <attr name="android:divider"/>
+        <attr name="android:requiresFadingEdge"/>
+        <attr name="android:fadingEdgeLength"/>
+    </declare-styleable></file><file path="E:\BeiXin\app\src\main\res\values\color.xml" qualifiers=""><color name="title_bar_color">#ff232326</color><color name="common_header_bg">#ffffff</color><color name="common_red_bg">#f05253</color><color name="common_dark_black">#333333</color><color name="common_light_gray">#A0A0A0</color><color name="tv_tips_prodetail_top">#F23030</color><color name="tv_gray_prodetail_top">#8C8C8C</color><color name="tv_gray_prodetail_top_comment">#59595C</color><color name="common_tv_black">#303030</color><color name="common_gray_border">#d8d8d8</color><color name="tv_dark_red">#c70000</color><color name="gray_line">#BEBEBE</color><color name="white">#FFFFFF</color><color name="common_dark_red">#E5350D</color><color name="common_gray_bg">#f3f4f6</color><color name="tv_red_home">#E8360F</color><color name="tv_blue_home">#15AFD6</color><color name="tv_gray_home">#676767</color><color name="tv_darkorange_home">#645000</color><color name="tv_grayshop_home">#CAC3B2</color><color name="tv_tab_home">#5B5B5B</color><color name="tv_red_prodetail">#D12013</color><color name="tv_gray_prodetail">#A0A0A0</color><color name="tv_tips_prodetail">#CB3030</color><color name="tv_shoppro_prodetail">#757575</color><color name="tv_account_gray">#AFAFAF</color><color name="bg_message_code">#CECECE</color><color name="bg_prodetail">#F5F5F5</color><color name="common_home_tv">#262626</color><color name="button_edge">#969696</color><color name="black">#292929</color><color name="red">#ff3600</color><color name="possible_result_points">#c0ffbd21</color><color name="result_view">#b0000000</color><color name="viewfinder_mask">#60000000</color><color name="bg">#F4F4F4</color><color name="title_bg_black">#333333</color><color name="dark_gray">#b3b3b3</color><color name="take_round_photo_clip_bg">#FFC415</color><color name="background_color">#f2f2f2</color><color name="text_hint">#666666</color><color name="pwd_text_hint">#333333</color><color name="line">#d2d2d2</color><color name="text_color_light">#333333</color><color name="btn_color_light">#20c0da</color><color name="bark_gray">#BEBEBE</color><color name="result_minor_text">#ffc0c0c0</color><color name="result_points">#c099cc00</color><color name="result_text">#ffffffff</color><color name="status_text">#ffffffff</color><color name="transparent">#00000000</color><color name="group_buy_item_time_bg">#E9360D</color><color name="group_tab_select">#FDFA00</color><color name="tv_tips_gray">#646464</color></file><file path="E:\BeiXin\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="title_bar_size">15.0sp</dimen><dimen name="tv_textsize20">20sp</dimen><dimen name="tv_textsize18">18sp</dimen><dimen name="tv_textsize17">17sp</dimen><dimen name="tv_textsize16">16sp</dimen><dimen name="tv_textsize15">15sp</dimen><dimen name="tv_textsize14">14sp</dimen><dimen name="tv_textsize13">13sp</dimen><dimen name="tv_textsize12">12sp</dimen><dimen name="tv_textsize11">11sp</dimen><dimen name="tv_textsize10">10sp</dimen><dimen name="tv_textsize22">22sp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="indicator_corner_radius">12dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="group_book_item_width">100dp</dimen><dimen name="group_book_divider_width">20dp</dimen><dimen name="group_book_pad">2dp</dimen><dimen name="group_book_divider_pad">4dp</dimen><dimen name="group_tab_width">80dp</dimen></file><file path="E:\BeiXin\app\src\main\res\values\ids.xml" qualifiers=""><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/></file><file path="E:\BeiXin\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">北新网</string><string name="yes">确定</string><string name="above_app">关于APP</string><string name="username_or_phone">请输入手机号码</string><string name="pwd">请输入密码</string><string name="pwd2">请确认密码</string><string name="forget_pwd_yes">自动登录</string><string name="login">登录</string><string name="register">注册</string><string name="sub_cancel_title">提示</string><string name="text_pwd">密码须包含大写、小写字母、数字,长度为6到16位请重新输入</string><string name="text_username">用户名须为6到16位有效数字和字母，请重新输入</string><string name="text_phone">手机号输入不正确</string><string name="loginmessage">若该手机号无法接受验证短信，请拨打客户电话400-400-4400申诉更改验证手机</string><string name="offline_map_size">%sMB</string><string name="homepage_time_buy">团购</string><string name="homepage_time_buy_detail">名社联展 经管好书</string><string name="homepage_best_buy_detail">小编倾情推荐 精品好书</string><string name="new_book_to_buy">新品上架</string><string name="hot_book_to_buy">精品热销</string><string name="editor_circle">主编圈子</string><string name="scan_qrcode">将二维码放入框内，即可自动扫描</string><string name="scan_onecode">将条形码放入框内，即可自动扫描</string><string name="scan_qr">二维码</string><string name="scan_one">条形码</string><string name="scan_help">帮助</string><string name="scan_scan">扫一扫</string><string name="scan_result">扫描结果</string><string name="scan_content">扫描内容</string><string name="scan_back">返回</string><string name="button_ok">确定</string><string name="msg_camera_framework_bug">抱歉，Android相机可能被占用，您可能需要重启设备。</string><string name="msg_default_format">格式</string><string name="msg_default_meta">元数据</string><string name="msg_default_time">时间</string><string name="msg_default_type">类型</string><string name="pull_to_refresh_pull_label">下拉刷新…</string><string name="pull_to_refresh_release_label">放开以刷新…</string><string name="pull_to_refresh_refreshing_label">正在载入…</string><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="take_round_photo_loading">正在保存</string><string name="take_round_photo_true">确定</string><string name="take_round_photo_back">返回</string><string name="take_round_photo_clip">移动和缩放</string><string name="book_detail_tab0">商品详情</string><string name="book_detail_tab1">包装清单</string><string name="book_detail_notab1">出版信息</string><string name="book_detail_tab2">售后服务</string><string name="title_activity_terms">TermsActivity</string><string name="title_activity_update_name">UpdateNameActivity</string><string name="title_activity_update_mobile">UpdateMobileActivity</string><string name="title_activity_update_email">UpdateEmailActivity</string></file><file path="E:\BeiXin\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="dialog_base" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="MyRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/custom_ratingbar_progress</item>
+        <item name="android:minHeight">12dip</item>
+        <item name="android:maxHeight">12dip</item>
+    </style><style name="main_tab_bottom">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style><style name="dialog_default" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="dialog_progress" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:backgroundDimAmount">0.7</item>
+    </style><style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">false</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+        
+    </style><style name="delete_disable_btn">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">70dip</item>
+        <item name="android:layout_height">37dip</item>
+    </style><style name="cng_dialog_theme" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="main_menu_animstyle">
+        <item name="android:windowEnterAnimation">@drawable/photo_dialog_in_anim</item>
+        <item name="android:windowExitAnimation">@drawable/photo_dialog_out_anim</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@color/bg</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+    </style><style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="mask_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/gray_cover</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="dialog_choose_photo" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="custom_ratingbar_style" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/custom_ratingbar_progress</item>
+        <item name="android:minHeight">15dp</item>
+        
+        <item name="android:isIndicator">true</item>
+    </style><style name="custom_ratingbar_style_big" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/custom_ratingbar_progress_big</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:minWidth">40dp</item>
+        <item name="android:maxHeight">40dp</item>
+        <item name="android:maxWidth">40dp</item>
+        <item name="android:allowSingleTap">true</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">1</item>
+        <item name="android:isIndicator">true</item>
+    </style><style name="book_detail_dailog" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit</item>
+    </style><style name="title_bar_left_imageview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+    </style><style name="title_bar_title_text">
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/title_bar_color</item>
+        <item name="android:textSize">@dimen/title_bar_size</item>
+    </style><style name="title_bar_title" parent="title_bar_title_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxWidth">180.0dip</item>
+    </style><style name="title_bar_layout_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:orientation">horizontal</item>
+    </style><style name="title_bar_button_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/title_bar_color</item>
+        <item name="android:textSize">@dimen/tv_textsize14</item>
+        <item name="android:visibility">gone</item>
+    </style><style name="title_bar_imageview_right">
+        <item name="android:layout_width">35.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+    </style></file><file path="E:\BeiXin\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"/><file path="E:\BeiXin\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"/><file path="E:\BeiXin\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\BeiXin\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="E:\BeiXin\app\build\generated\res\rs\debug"/><source path="E:\BeiXin\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\BeiXin\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\BeiXin\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+        <attr format="boolean" name="border_overlay"/>
+    </declare-styleable><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="RoundImageView">
+        <attr format="dimension" name="borderRadius"/>
+        <attr format="reference" name="borderColor"/>
+        <attr format="dimension" name="border"/>
+        <attr name="type">
+            <enum name="circle" value="0"/>
+            <enum name="round" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="HorizontalListView">
+        <attr format="dimension" name="dividerWidth"/>
+        <attr name="android:divider"/>
+        <attr name="android:requiresFadingEdge"/>
+        <attr name="android:fadingEdgeLength"/>
+    </declare-styleable></configuration></mergedItems></merger>

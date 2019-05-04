@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.beijing.beixin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_gray_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/group_soon_layout"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:background="#FFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+
+        <com.beijing.beixin.widget.CircleTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="即"
+            android:textColor="@color/tv_tips_prodetail"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="将开团"
+            android:textColor="@color/tv_tips_prodetail"
+            android:textSize="15sp" />
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/common_right_arrow_selector"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <com.beijing.beixin.widget.HorizontalListView
+        android:id="@+id/horizontallistview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="1dp"
+        android:paddingTop="1dp" >
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="1px"
+            android:background="#A1A1A1" />
+
+        <TextView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_circular_th_red"
+            android:gravity="center"
+            android:text="G"
+            android:textColor="@color/tv_tips_prodetail"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="10dp"
+            android:text="爆款抢购中"
+            android:textColor="@color/tv_tips_prodetail"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="1px"
+            android:background="#A1A1A1" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <com.beijing.beixin.utils.pulltorefresh.PullToRefreshListView
+            android:id="@+id/pullList"
+            android:layout_width="fill_parent"
+            android:layout_height = "match_parent"
+            android:cacheColorHint="#00000000"
+            android:dividerHeight="10dp"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@android:color/transparent"
+            android:smoothScrollbar="true" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <include
+            android:id="@+id/load_faile"
+            layout="@layout/include_load_faile" />
+    </FrameLayout>
+
+</LinearLayout>
